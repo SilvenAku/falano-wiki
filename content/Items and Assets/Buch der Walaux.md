@@ -1,0 +1,1 @@
+Das Buch der Walaux ist ein Grimoir, das eine unvollständige Kopie des [[Grimoire von Warin Walaux]] darstellt. Nichtsdestotrotz ist es eines der größten Zauberbücher und es darf nur vom [[Walaux Committee|Komitee der Walaux]] eingesehen werden.

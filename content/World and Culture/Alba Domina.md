@@ -1,0 +1,6 @@
+Eine Alba Domina ist eine wiedergekehrte Päpstin. Es ist nicht bekannt warum und woher sie genau kommen.
+Die Albae Dominae können als ehemalige Medien beschrieben werden die eine Brücke zu einem göttlichen Wesen darstellten. Nach ihrem Tod scheinen manche die Fähigkeit zu haben aus unterschiedlichsten Gründen zurückzukommen und Personen zu leiten und ihnen Führung zu geben. Das Symbol von Päpstinnen ist das [[Petruskreuz]].
+[[Merakor Polymeropulos]] erklärt, dass sie jedem erscheinen können, es aber bei den wenigsten tatsächlich tun.
+Sie stehen mit dem Christentum in enger Verbindung.
+
+Es gibt auch die Theorie, das sie Wesen zwischen den Planes darstellen. Sie sollen weder von der [[Celestial Plane]] noch von der [[Infernal Plane]] ausgehen. Die erste von ihnen soll die Schaffung der [[Material Plane]] und eventuell der [[Eternal Plane]] eingeleitet haben. Sie sind daher als neutrale Wesen in Betrachtung. Daher sollen sie auch selten in irgendeiner Weise eingreifen, es sei denn, die Balance wäre gefährdet. Der Kampf zwischen den Geschöpfen der [[Celestial Plane]] und der [[Infernal Plane]] macht ihr Eingreifen zeitweise nötig.

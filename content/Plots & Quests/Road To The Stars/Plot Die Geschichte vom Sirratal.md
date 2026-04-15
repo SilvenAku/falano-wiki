@@ -1,0 +1,1 @@
+Was ist das Sirratal, wo ist es und warum gibt es es? Der Spieler hat noch keine einzige Information zu seinem Standort und den Umständen erhalten, er weiß auch nichts von der [[VEU]] oder von [[Eurom]] noch von [[Falano Port]]. Er erfährt die Anfänge bis zu dessen Untergang.

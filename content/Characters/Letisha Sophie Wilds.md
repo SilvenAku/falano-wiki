@@ -1,0 +1,37 @@
+---
+template: Character
+created: 
+start-date: 3018-08-19
+end-date: 3050-04-11
+tags:
+  - timeline
+type:
+  - range
+faction: 
+species:
+  - "[[Mensch]]"
+color:
+  - blue
+---
+### Summary
+Prompt for ChatGPT:
+Bitte verfasse auf Basis des nachfolgenden Textes ein kurzes Charakterprofil mit den folgenden Infos: Job, Relationships, Hates, Likes
+
+Wird als anonymes Opfer am [[Bahnhof Lincoln Street]] von [[Hadrat]] ermordet, als er sich mit ihrem Körper vor einen Zug wirft.
+### Pictures
+
+### Internal and external goals
+
+### Motivation
+
+### Likes and Dislikes
+
+### Conflict
+
+## Life
+### Early childhood
+### Education and teenage years
+### Young adult
+### Middle ages
+### Elder
+### Death

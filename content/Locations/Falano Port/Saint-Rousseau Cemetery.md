@@ -1,0 +1,2 @@
+Friedhof auf dem auch [[Merakor Polymeropulos]] begraben wurde. Es handelt sich um einen großzügig angelegten Park, der sich im [[Mothers Ring]] befindet.
+Dieser Friedhof zeichnet sich durch ein zentrales Mausoleum aus. In seinen tieferen Ebenen befindet sich zudem eine stillgelegte Silikatmine, die als Grabkammer zweckentfremdet wurde indem auch das Grabmal von Polymeropulos zu finden ist.

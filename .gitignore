@@ -20,4 +20,10 @@ Thumbs.db
 .replit
 replit.nix
 private/
-*.gif  *.gif 
+
+# Grosse Mediendateien (ueber 25MB Cloudflare-Limit)
+*.gif
+content/ZZ Media/Items/Lord Well 3.gif
+content/ZZ Media/Items/Lord Well 4.gif
+content/ZZ Media/Items/Lord Well 5.gif
+content/ZZ Media/Items/Lord Well Metal 2.gif

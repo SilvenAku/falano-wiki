@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 In der Gesellschaft des [[Sirratal|Sirratals]] findet der sogenannte "Lord Well" einen zentralen spirituellen Platz in jedem gläubigen Haushalt. Da im Sirratal eine strenge theologische Lehre zu Ehren des [[Lord of Spring]] vorherrschend war und von der [[Ecclesia Aeterni Fons|Sirrataler Kirche]] vorgegeben wurde, konnte man tatsächlich fast in jedem Haushalt einen dieser Brunnen in verschiedensten Ausführungen vorfinden.  

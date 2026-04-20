@@ -24,7 +24,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 Der Melranier wird vom Sicherheitspersonal aus dem Shuttle gebracht, während er lautstark seine Rechte einfordert. Die Gruppe beschließt, eine Transportmöglichkeit nach Bethlehem zu suchen, und durchstreift den chaotischen Raumhafen von Neu-Kairo. Dabei stoßen sie auf nervöse Marktstände und überwachte Passanten. Als sie sich überlegen, den Gefangenen aus der Urne zu lassen, stellt sich heraus, dass er bereits entkommen ist. Verwirrt suchen sie nach einer Lösung, bis der Geist sie darauf hinweist, dass sie sich in Ägypten befinden. Sie bitten ihn um Hilfe bei der Suche nach einem Taxi und planen, schnellstmöglich nach Bethlehem zu gelangen, um den Dämon zu entfernen. Währenddessen bemerken sie einen Tumult auf dem Platz, als jemand einen Dschinn beschuldigt, was Polymeropulos empört.

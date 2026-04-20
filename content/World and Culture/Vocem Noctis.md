@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 Die Vocem Noctis sind Stimmen, die nicht alle [[Fehin]] hören können und von der Vergangenheit an Orten berichten können. Es sind eingebrannt Überreste von Stimmen an einem Ort, sie werden auch 'Echos' genannt und können bei besonders sensitiven Personen auch als Bilder vor dem geistige Auge in Erscheinung treten. Manche Personen haben oder entwickeln Kräfte, um jene Stimmen hören zu können. Es handelt sich dabei nicht um die Stimmen von Geistern. Mit den Vocem Noctis kann nicht viel gesprochen werden, weil sie eigentlich nicht mehr existieren. Sie haben sich lediglich wie ein Bild auf einem Display eingebrannt.

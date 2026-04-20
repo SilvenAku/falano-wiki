@@ -11,7 +11,7 @@ type:
 template: Event
 created: 
 color: red
-draft: false
+draft: true
 ---
 DeAngelis war eine der ersten führenden Familien im neu gegründeten [[Sirratal]]. Sie haben das [[Sirr'Wall Mansion]] erbaut, das später unter den [[Sirr'Wall]] die letzte Blüte erfahren hat und die ihm seinen Namen gaben. Zum Zeitpunkt der Erbauung des Anwesens war es als DeAngelis Anwesen bekannt.
 

@@ -19,7 +19,7 @@ aeon-relations:
   - "[[6 Der Vorsitzende des Kuratoriums]]"
   - "[[2 Im Haus des Aradan-Fürsten]]"
   - "[[3 12 Fratzen an den Wänden]]"
-draft: false
+draft: true
 ---
 ### Summary
 Prompt for ChatGPT:

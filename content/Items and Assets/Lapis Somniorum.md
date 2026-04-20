@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 Ein äußerst seltenes Mineral, dass es dem Mitführenden erlaubt Geräusche um ihn herum jeglicher Art verstummen zu lassen. Er gilt als eine der wenigen Mittel die gegen die [[Vocem Noctis]] abhilfe schaffen können.

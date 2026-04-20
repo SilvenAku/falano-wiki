@@ -26,7 +26,7 @@ Published: true
 type:
   - range
 banner: ZZ Media/Stories/004 Die Kollegin 1.png
-draft: false
+draft: true
 ---
 ## Header
 ![[004 Die Kollegin 1.png]]

@@ -23,7 +23,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 Naldor spricht mit seinem Vorgesetzten McClair und trifft dabei auf Emilia Schönfels, die ihn anschwärzen möchte. McClair ist allerdings ein großer Fan von Kant und lässt ihm alles durchgehen, was seine Kollegin Emilia Schönfels natürlich weniger amüsant findet.

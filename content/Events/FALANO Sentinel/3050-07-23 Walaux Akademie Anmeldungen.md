@@ -10,7 +10,7 @@ type:
   - range
 color:
   - red
-draft: false
+draft: true
 ---
 Anmeldungen für die Walaux Akademie stehen vor der Tür ein kurzer Einblick
 

@@ -16,7 +16,7 @@ aeon-relations:
   - "[[Silja Hilde Saren]]"
   - "[[Andrit Saren]]"
   - "[[Iltar W. Såren]]"
-draft: false
+draft: true
 ---
 ### Summary
 Prompt for ChatGPT:

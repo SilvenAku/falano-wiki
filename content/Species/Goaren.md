@@ -9,5 +9,5 @@ type:
 origin location:
   - "[[Goaron]]"
 intelligence: true
-draft: false
+draft: true
 ---

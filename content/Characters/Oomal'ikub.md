@@ -12,7 +12,7 @@ species:
   - "[[Goaren]]"
 color:
   - blue
-draft: false
+draft: true
 ---
 ### Summary
 Prompt for ChatGPT:

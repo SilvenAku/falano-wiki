@@ -11,7 +11,7 @@ type:
   - range
 color:
   - red
-draft: false
+draft: true
 ---
 
 # 📅 Event: 3051-04-08 Farlines erhöht die Preise

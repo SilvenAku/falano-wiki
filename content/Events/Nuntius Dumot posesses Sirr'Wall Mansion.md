@@ -10,6 +10,6 @@ type:
 template: Event
 created: 
 color: red
-draft: false
+draft: true
 ---
 [[Nuntius Dumont]] ist ein Kirchenfürst der [[Ecclesia Aeterni Fons]] und war kurzzeitiger Eigentümer des [[Sirr'Wall Mansion]]. Er erlebte die Fertigstellung der Renovierungen nicht mehr und die Baustelle wurde ruhend gestellt.

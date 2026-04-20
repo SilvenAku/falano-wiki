@@ -11,7 +11,7 @@ type:
 color: red
 aliases: []
 sticker: ""
-draft: false
+draft: true
 ---
 Das Wintersemester ist angebrochen und die Universitäten und Akademien der Nation füllen sich mit den Studierenden aus allen Teilen der Republik. Ein reges Treiben setzt ein, während Wohnräume gewechselt und Arbeitsmaterialen beschafft werden. Doch mit einer neuen Komponente auf der Einkaufsliste: Chestnut, Gummi oder Chleb.
 

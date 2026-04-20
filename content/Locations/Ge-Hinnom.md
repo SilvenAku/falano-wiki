@@ -6,6 +6,6 @@ end-date:
 tags:
   - timeline
   - location
-draft: false
+draft: true
 ---
 Biblischer Ort mit starker Verbindung zur Hölle. An ihm kann die [[Konvergenz von Gehenna]] wiederhergestellt werden.

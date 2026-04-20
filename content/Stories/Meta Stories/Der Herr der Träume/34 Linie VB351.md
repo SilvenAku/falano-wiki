@@ -24,7 +24,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 Die Gruppe nimmt die Fähre nach Neu-Kairo. Kant wird Zeuge der Auseinandersetzung eines Melraniers mit den Sicherheitskräften, denselben den er in Selene auch schon gesehen hat. Sie sprechen mit Barres über die Eigenheiten von Terra und der Eigenheit der menschlichen Riten und Bräuche bezüglich des Tag-Nacht-Zyklus der Erde.

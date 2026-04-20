@@ -17,7 +17,7 @@ aeon-relations:
   - "[[Osiris Walaux]]"
   - "[[Juliette Rose Walaux]]"
   - "[[Warin Walaux]]"
-draft: false
+draft: true
 ---
 ### Summary
 Prompt for ChatGPT:

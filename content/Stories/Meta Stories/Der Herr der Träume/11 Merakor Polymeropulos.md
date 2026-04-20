@@ -22,7 +22,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 Naldor beschwört den Geist von Polymeropulos, der wütend aus seinem Schlaf gerissen wird. Er weigert sich zunächst den beiden zu glauben, bis Naldor ihm seine Skizzen zeigt. Merakor will die beiden zu Sarahs Gemächern begleiten.

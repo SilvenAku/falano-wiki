@@ -9,7 +9,7 @@ tags:
 type:
   - range
 color: red
-draft: false
+draft: true
 ---
 Von lautem Poltern und herumfliegenden Gegenständen geweckt wurden seit Anfang Juli immer wieder Gäste und Personal in einem der renomiertesten Hotels von Falano dem Allacar Central. Es wurde nicht näher untersucht, bis beinahe ein großes Unglück geschehen wäre. 
 "Einer unserer antiken Murano Kristallluster ist mir beinahe direkt auf den Kopf gefallen!", erklärt Alisher Akhmetov, Geschäftsführer im Allacar. Es sei darauffolgend immer häufiger zu "brenzligen Situationen" bekommen, schildert uns auch Camila Vargas, Chefrezeptionistin im Allacar. "Wir haben Anrufe aus Zimmern bekommen und beim Erscheinen der Angestellten wurden gefährliche Fallen gestellt. Drei der Reinigungskräfte haben starke Verbrennungen erlitten, als glühend heiße Kohlen nach ihnen geschleudert wurden, als sie Zimmer betraten. Außerdem haben manche Gäste absichtlich das Wasser laufen lassen und die Abflüsse verstopft. All die betroffenen Gäste beteuerten, dass sie es nicht gewesen waren", erklärt Vargas. Sie gibt auch an, dass die Gäste selbstverständlich haftend für die entstandenen Schäden gehalten werden.

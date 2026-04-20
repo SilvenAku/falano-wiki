@@ -28,7 +28,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 [[Leya Kor]] und [[Naldor Kant]] betreten das Anwesen und sprechen über die Entwicklung des Raumhafens. Schließlich treten sie in ein Trophäenzimmer hinüber und [[Leya Kor]] erklärt etwas bzgl. den Diaboli Dentis und welche Legende sich dahinter verbirgt. Letztlich finden sie die Jecur Promethei, die ihnen [[Merakor Polymeropulos]] erklärt, der sie plötzlich überrascht. Er erzählt von seiner damaligen Liebe [[Silvia Leclerc]], die er an Leberzirrhose verloren hat.

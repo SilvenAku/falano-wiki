@@ -8,7 +8,7 @@ tags:
   - location
 banner: ZZ Media/Locations/Falano Port/Falano Core.png
 banner_y: "50"
-draft: false
+draft: true
 ---
 
 # 📍 Location: Falano Core

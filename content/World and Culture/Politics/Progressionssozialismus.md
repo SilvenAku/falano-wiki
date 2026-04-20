@@ -1,6 +1,6 @@
 ---
 created: 2025-01-02T16:33:00
 tags:
-draft: false
+draft: true
 ---
 Der Begriff *Progressionssozialismus* stammt von [[Luciano Heimer]] und bezeichnet einen Regierungsstil wie er beispielsweise in [[Falano Port]] Anwendung findet. Der Grundgedanke ist, dass durch fortschreitende Automatisierung nicht genügend Arbeit für die Bevölkerung existiert und folglich jedem Bürger ein Grundeinkommen sowie eine Unterkunft zusteht. Ähnlich wie im Kommunismus wird auch hier eine abgeschwächte Form der Planwirtschaft betrieben, durch die sichergestellt werden soll, dass die Grundbedürfnisse des Volkes, wie beispielsweise Nahrung und Infrastruktur, befriedigt werden. Neben den staatlichen Betrieben, die die Grundversorgung darstellen, gibt es unzählige Privatunternehmen. Durch diese Privatwirtschaft ist es auch Privatpersonen möglich, an großen Reichtum zu gelangen.

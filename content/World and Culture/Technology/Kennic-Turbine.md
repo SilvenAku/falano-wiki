@@ -8,7 +8,7 @@ tags:
 type:
   - range
 color: gray
-draft: false
+draft: true
 ---
 Die Kennic-Turbine ist der einzige gewerblich nutzbare Antrieb, der Überlichtgeschwindigkeit ermöglicht. Für den Betrieb wird [[Xenin]] benötigt.
 

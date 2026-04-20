@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 Das Aquae benedictae processus ist ein kirchliches Event zur Segnung einer Bierproduktion. Nur ein Bier mit dem Siegel der [[Ecclesia Aeterni Fons]], dass bestätigt, dass die jeweilige Charge das Prozedere durchlaufen hat, darf auch tatsächlich getrunken und damit vermarktet werden. Diese strenge Regelung wird im [[Liber Aquarum]] erwähnt und sorgt nicht zuletzt dafür, dass relativ viel Bier seinen Weg ohne einen entsprechenden monetären Gegenwert in die Hallen der [[Ecclesia Aeterni Fons]] findet.

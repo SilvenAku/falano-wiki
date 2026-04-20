@@ -26,7 +26,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 Die Gruppe, bestehend aus Merakor Polymeropulos, einer Professorin und Barres, befindet sich auf dem Raumhafen Selene, dem Hauptstadt des Erdenmondes. Sie bezahlen ihren Stellplatz und suchen eine Fähre nach Terra. Trotz der geschäftigen Atmosphäre und strengen Sicherheitskontrollen schaffen sie es, eine Verbindung nach Neu-Kairo zu finden. Während sie sich auf die Reise machen, werden sie Zeugen einer Auseinandersetzung eines Melraniers mit Sicherheitskräften.

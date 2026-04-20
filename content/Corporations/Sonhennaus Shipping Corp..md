@@ -8,7 +8,7 @@ type:
   - range
 color: orange
 banner: ZZ Media/Corporations/Sonhennaus Shipping Corp.png
-draft: false
+draft: true
 ---
 ![[Sonhennaus Shipping Corp.png]]
 # 🏢 Konzern: Sonhennaus Shipping Corp.

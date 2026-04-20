@@ -10,7 +10,7 @@ type:
   - range
 color:
   - green
-draft: false
+draft: true
 ---
 En. Board of Trustees> *credo*
 

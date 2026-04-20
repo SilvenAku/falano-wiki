@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 Beliebtes Kartenspiel, vor allem in [[Falano Port]] sehr stark verbreitet. Es gibt einige Deckades Arenen in denen professionelle Tourniere abgehalten werden.

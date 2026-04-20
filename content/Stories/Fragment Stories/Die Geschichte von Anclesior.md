@@ -1,7 +1,7 @@
 ---
 created: 2024-05-27T20:56:00
 tags:
-draft: false
+draft: true
 ---
 Wie jede gute Geschichte beginnt auch diese in einem kleinen, idyllischen Dorf auf Terra. Dort wo sich die Berge in stillen Seen spiegeln und die einsamen Wölkchen wandernde Schatten auf das grünste Gras werfen. Dort beginnt sie. In diesem kleinen Dorf lebt ein kleiner Junge, der es liebt, mit seinen Freunden die Gegend um das Dorf herum zu erkunden. Egal, wie oft ihm seine Eltern sagen, dass er es lassen solle, weil es ja so gefährlich sei. Der Junge macht es trotzdem.
 An einem Abend im Herbst, als die Sonne unerwartet früh untergeht, ist der Junge noch in einem Wald nahe des Dorfes. Das rote Licht des sterbenden Sterns greift wie ein letzter, verzweifelter Hilferuf durch das Geäst ehe die Welt in Dunkelheit versinkt. Die Eltern des Jungen werden ungeduldig, denn es ist dunkel und ihr Kind nicht zu Hause. Sie beginnen, im Dorf herumzufragen und die Freunde des Jungen, die allesamt bereits daheim waren, verrieten ihnen seinen letzten bekannten Aufenthaltsort. Eine Gruppe an Freiwilligen macht sich in der alles verschluckenden Finsternis auf die Suche nach dem Jungen.

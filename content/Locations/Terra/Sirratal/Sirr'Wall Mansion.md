@@ -6,7 +6,7 @@ end-date: 2898-12-31
 tags:
   - timeline
   - location
-draft: false
+draft: true
 ---
 ```ob-timeline
 tags=SirrWallMansion

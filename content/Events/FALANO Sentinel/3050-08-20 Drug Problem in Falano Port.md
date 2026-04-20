@@ -10,7 +10,7 @@ type:
   - range
 color:
   - red
-draft: false
+draft: true
 ---
 “Ganz schwierig” sei laut Suchtmittelexpertin [[Petra Hagerer]] der Umgang mit der neuen Droge die unseren Port im Moment fest im Griff hat. “Ich habe selbst praktisch alles probiert und kenne mich aus mit den unterschiedlichsten Rauschgiften, aber dieser Brocken hat es in sich!”, erklärt uns Hagerer. Aber was genau sucht unseren Port heim? Weil das gar nicht einfach zu beantworten ist, haben wir für Sie recherchiert.
 

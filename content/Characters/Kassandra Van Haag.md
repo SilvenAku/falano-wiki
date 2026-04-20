@@ -11,7 +11,7 @@ faction:
 species: 
 color:
   - blue
-draft: false
+draft: true
 ---
 ### Summary
 Kassandra Van Haag ist die personifizierte Stimme des Widerstands im Falano Port. Als Sprecherin von [[Falano for All]] nutzt sie ihren scharfen Verstand und ihr rhetorisches Geschick, um gegen die klaffende Schere zwischen Arm und Reich zu kämpfen. Sie ist keine utopische Träumerin, sondern eine Realistin, die weiß, dass jeder Fortschritt mit Schweiß und Standhaftigkeit erkauft werden muss.

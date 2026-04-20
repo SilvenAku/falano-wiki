@@ -25,7 +25,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 [[Leya Kor]] erklärt das Ritual und die Gruppe führt es durch, bis [[Naldor Kant]] in die [[Echo Realm]] eintaucht.

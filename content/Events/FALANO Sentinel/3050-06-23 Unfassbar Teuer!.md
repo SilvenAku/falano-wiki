@@ -11,7 +11,7 @@ type:
   - range
 color:
   - red
-draft: false
+draft: true
 ---
 Infrastrukturexperten [[Luis Decartés]]
 Sprecherin des Betriebsrates [[Harani Achat-Klischkowa]]

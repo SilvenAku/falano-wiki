@@ -9,7 +9,7 @@ tags:
 type:
   - range
 color: red
-draft: false
+draft: true
 ---
 Die Pläne zur Erweiterung unseres großartigen Falano gehen in die finale Phase und liegen uns nun in der neuen und vom Triumvirat abgesegneten Form vor.
 Der neue Circle soll, anders als von [[Sade Adebayo]] in ihrem Vorschlag von einem sozialerem Falano für alle Gesellschaftsschichten visioniert, nun doch einen größeren Fokus auf Kultur und Tourismus legen. Der Plan enthält Ideen für den größten Hotel- und Casinokomplex des gesamten Raumhafens.

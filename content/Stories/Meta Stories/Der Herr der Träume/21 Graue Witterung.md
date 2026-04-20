@@ -28,7 +28,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 Naldor nimmt die Fährte im [[Echo Realm]] auf und verfolgt den Dämon zum [[Bahnhof Lincoln Street]] wo die Truppe gemeinsam zunächst den [[Oman Sider|falschen Besessenen]] zur Rede stellen und anschließend den richtigen entdecken.

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 Der Erdenmond gilt als eine der liberalsten bekannten Gebiete. Er hat keine eigenständige Regierung und wird lediglich über ein Grundgesetz geregelt, das von den drei großen terrestrischen Mächten [[VEU]], [[USA]] und [[KOJA]] eingesetzt wurde. Verwaltet wird Luna über deine Hauptstadt [[Selene]]. Das Organ zur groben Verwaltung und Sicherstellung von Rech und Ordnung ist das [[Aorta Oekonomia Kartell]].

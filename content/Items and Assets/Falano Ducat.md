@@ -1,7 +1,7 @@
 ---
 tags: 
 type: 
-draft: false
+draft: true
 ---
 
 # 📦 Item: Falano Ducat

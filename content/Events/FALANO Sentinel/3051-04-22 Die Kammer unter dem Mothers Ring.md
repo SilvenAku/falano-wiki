@@ -11,7 +11,7 @@ type:
   - range
 color:
   - red
-draft: false
+draft: true
 ---
 
 # 📅 Event: 3051-04-22 Die Kammer unter dem Mothers Ring

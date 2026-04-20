@@ -1,7 +1,7 @@
 ---
 created: 2024-03-16T14:42:00
 tags:
-draft: false
+draft: true
 ---
 Gottfenster der Göttliche ist ein besonders penetrantes und selbstverherrlichendes Individuum der [[Frod]]-Spezies (genauer: [[Fenster-Frod]]).
 

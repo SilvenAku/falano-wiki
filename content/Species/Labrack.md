@@ -8,7 +8,7 @@ type:
   - range
 origin location: 
 intelligence: false
-draft: false
+draft: true
 ---
 
 # 🧬 Species: Labrack

@@ -23,7 +23,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 [[Naldor Kant]] bekommt [[Kants Gehstock]] von [[Leya Kor]]. Sie erklärt ihm, dass er einen Lehrmeister benötigen würde, damit er dei [[Plot Vocem Noctis]] nutzen könnte, um den Dämon ausfindig zu machen. Da es allerdings keinen Lehrmeister in [[Falano Port]] gibt, bietet [[Leya Kor]] ihm Platz für Übungen an, während sie ihn schützt.

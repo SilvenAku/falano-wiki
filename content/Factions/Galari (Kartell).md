@@ -9,7 +9,7 @@ tags:
 type:
   - range
 color: green
-draft: false
+draft: true
 ---
 > *Suum cuique*
 

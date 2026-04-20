@@ -14,7 +14,7 @@ species:
 color:
   - green
   - blue
-draft: false
+draft: true
 ---
 ## Summary
 Prompt for ChatGPT:

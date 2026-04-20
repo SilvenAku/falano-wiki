@@ -6,6 +6,6 @@ end-date:
 tags:
   - timeline
   - location
-draft: false
+draft: true
 ---
 Eurom ist die Hauptstadt der [[VEU]] und eine der bedeutendsten Städte auf [[Terra]].

@@ -9,7 +9,7 @@ tags:
 type:
   - range
 color: red
-draft: false
+draft: true
 ---
 Es sind unfassbare Nachrichten, denn ohne die Ordnungswache wäre am Samstag 27.09.3050 ein apokalyptisches Ereignis für unseren geliebten Port eingetreten. "Es bestand nie die Gefahr, dass der Anschlag geglückt wäre, wir sind da gut abgesichert, aber man merkt wie wichtig das tatsächlich ist", erklärt Baptiste Damiro, Ordnungswachengeneralkommandant von Falano Core. Aber was war eigentlich los?
 

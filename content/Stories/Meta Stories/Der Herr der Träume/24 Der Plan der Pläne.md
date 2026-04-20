@@ -24,7 +24,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 [[Naldor Kant]] erwacht und findet sich im Gemach von [[Leya Kor]] wieder. Er wird darüber aufgeklärt, dass er zwei Wochen lang geschlafen hat. Seine Kollegen erklären ihm, dass sie die Spur des Dämons verloren haben und tatsächlich auf eine “frische” Leiche warten müssen, da er sich nicht mehr zeigt. Diese Vorgehensweise kommt für [[Naldor Kant]] nicht in Frage. [[Leya Kor]] erklärt ihm, dass sie jenes Artefakt gefunden hat, dass ihm die Stille in seinem Schlaf zurückgebracht hat: [[Lapis Somniorum]].

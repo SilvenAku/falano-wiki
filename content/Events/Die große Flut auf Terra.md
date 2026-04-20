@@ -9,7 +9,7 @@ tags:
 type:
   - range
 color: red
-draft: false
+draft: true
 ---
 Der Prozess der Großen Flut dauerte über einen langen Zeitraum an, gipfelte aber letztlich im Jahr 2102 in den folgenden Jahren (2123) erhielt die [[VEU]] ihre Neuordnung.Der Meeresspiegel steigt um etwa 60 Meter. Die große Flut entsteht durch das Abschmelzen von den Polarkappen und verändert das Weltbild von [[Terra]] maßgeblich.
 ![[Pasted image 20240512174101.png]]

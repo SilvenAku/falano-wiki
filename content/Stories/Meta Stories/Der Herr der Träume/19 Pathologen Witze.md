@@ -25,7 +25,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 Kant lenkt den Pathologen mit dessen [[Deckades of Cards (DoC)]] Sucht ab und dringt mit seinem Team zum Leichnam von [[Sarah Liliac Kohling]] vor.

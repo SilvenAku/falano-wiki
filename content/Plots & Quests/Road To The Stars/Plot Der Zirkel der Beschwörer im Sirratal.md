@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 Der Moving Star Coven läutet den Untergang der Sirratalkultur ein und bringt zusätzlich die Dämonen zurück in die Welt. Durch den Spieler wird [[Hadrat]] eventuell nach [[Falano Port]] geschleppt und löst damit die Geschichte [[Plot Der Herr der Träume]] aus.

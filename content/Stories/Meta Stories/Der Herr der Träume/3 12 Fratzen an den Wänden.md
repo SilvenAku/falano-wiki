@@ -29,7 +29,7 @@ aeon-relations:
   - "[[Der Herr der Träume]]"
   - "[[Naldor Kant]]"
   - "[[Sean Luce Barres]]"
-draft: false
+draft: true
 ---
 ## Header
 ![[003 Zwölf Fratzen an den Wänden.png]]

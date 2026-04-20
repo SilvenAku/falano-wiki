@@ -23,7 +23,7 @@ Published: true
 type:
   - range
 banner: ZZ Media/Stories/008 Die Antwort aus der Flamme.png
-draft: false
+draft: true
 ---
 ## Header
 ![[008 Die Antwort aus der Flamme.png]]

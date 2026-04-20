@@ -10,7 +10,7 @@ tags:
 type:
   - range
 color: purple
-draft: false
+draft: true
 ---
 
 # Magiesystem – Übersicht

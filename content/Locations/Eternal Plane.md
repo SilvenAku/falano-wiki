@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 Die Ewige Plane ist eine Dimension die eine Art Speicher darstellt. Sie ist nicht im detail erforscht und sehr schwierig zu betrachten, man geht allerdings davon aus, dass etwa [[Geist|Geister]] ihren Ursprung dort haben und aus der Eternal Plane abgerufen werden können. Außerdem gibt es Indizien, dass auch die [[Vocem Noctis]] auf die Eternal Plane zurückzuführen sind. Wie genau das funktioniert ist nicht bekannt.

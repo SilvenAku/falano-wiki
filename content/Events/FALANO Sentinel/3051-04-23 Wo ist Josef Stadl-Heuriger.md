@@ -1,4 +1,5 @@
 ---
+draft: true
 template: Event
 created:
 start-date: 3051-04-23T00:00:00

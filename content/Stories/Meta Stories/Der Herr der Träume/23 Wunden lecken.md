@@ -26,7 +26,7 @@ Ready: true
 Published: true
 type:
   - range
-draft: false
+draft: true
 ---
 ## Summary
 [[Naldor Kant]] wird am Bein operiert, während [[Sean Luce Barres]] das Videomaterial mit [[Emilia Schönfels]] sichtet. Beiden wissen sie nicht, was es damit auf sich haben kann. Zusätzlich erzählt [[Sean Luce Barres]], dass sich auffällig rasch die Anarchisten vor dem [[Bahnhof Lincoln Street]] versammelt hätten, was keinen Sinn ergibt. [[Leya Kor]] tritt zu [[Naldor Kant|Naldor]] und erklärt, dass sie den Dämon wieder verloren haben, aber spricht [[Naldor Kant|Naldor]] dennoch Mut zu.

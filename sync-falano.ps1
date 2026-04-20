@@ -116,9 +116,12 @@ if ($action -eq "p" -or $action -eq "b") {
         git commit -m $commitMsg
 
         Write-Host "[>>] Hole neueste Aenderungen vom Server..." -ForegroundColor Cyan
-        git pull --rebase
-        if ($LASTEXITCODE -ne 0) {
-            Write-Host "[!] git pull fehlgeschlagen. Bitte Konflikte manuell loesen." -ForegroundColor Red
+        git pull --rebase 2>&1 | Out-String | Write-Host
+
+        # Pruefen ob Rebase wirklich fehlgeschlagen ist (Konflikte), nicht nur Aufraeumfehler
+        $rebaseConflict = git status --porcelain 2>&1 | Select-String "^(AA|UU|DD|AU|UA|DU|UD)"
+        if ($rebaseConflict) {
+            Write-Host "[!] Merge-Konflikt erkannt. Bitte Konflikte manuell loesen und dann erneut pushen." -ForegroundColor Red
             exit 1
         }
 

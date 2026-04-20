@@ -30,7 +30,7 @@ draft: false
 - **Current State:** Der Mothers Ring ist wie alle Gebiete von Falano unter ständiger Kontrolle durch die [[Triumviratsrepublik Falano]]. Es handelt sich lediglich um einen Arbeiterring, der weniger luxuriös wirkt.
 
 ## 🌑 Hidden Features (GM/Author Only)
-> [!danger] Spoiler: Secrets of the Land
+> [!danger]- Spoiler: Secrets of the Land
 > - **Underground:** Mom ist die Heimat vieler krimineller Organisationen. Auch gibt es dort das [[Dark Web]], den größten geheimen Marktplatz für halblegale Güter. Es ist nicht verboten, es gibt kaum Produkte die in Falano nicht gehandelt werden dürfen. Allerdings gibt es spezifische Ausnahmen und diese findet man ebenfalls im Dark Web.
 > - **Dark Secret:** Der Bezirk wurde von [[Larik Anahan Kahn]] geplant und als Bauherr errichtet. Kahn gehörte zu Lebzeiten einer Gruppe von Nekromanten an. Er hat den Ring so entworfen, dass er einen riesigen Ritualkreis ergibt, der für mächtige Beschwörungen genutzt werden könnte. Die Nutzung ist nicht belegt.
 > - **Unstable Elements:** Durch den Ritualkreisaufbau gilt die Wand zwischen [[Material Plane]] und [[Eternal Plane]] im Mothers Ring als außerordentlich dünn. Es gibt viele Geistersichtungen.

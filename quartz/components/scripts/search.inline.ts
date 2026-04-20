@@ -199,6 +199,16 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const searchBar = searchElement.querySelector(".search-bar") as HTMLInputElement
   if (!searchBar) return
 
+  // Update search label based on current language
+  const isEnglishPage = window.location.pathname.startsWith("/en/") ||
+    window.location.pathname === "/en" ||
+    window.location.pathname === "/en/"
+  const searchLabel = isEnglishPage ? "Search" : "Suche"
+  searchBar.placeholder = searchLabel
+  searchBar.setAttribute("aria-label", searchLabel)
+  const searchTitle = searchButton.querySelector("p")
+  if (searchTitle) searchTitle.textContent = searchLabel
+
   const searchLayout = searchElement.querySelector(".search-layout") as HTMLElement
   if (!searchLayout) return
 
@@ -490,7 +500,17 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ...getByField("tags"),
     ])
     const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
-    await displayResults(finalResults)
+
+    // Filter results to only show pages of the current language
+    const isEnglish = window.location.pathname.startsWith("/en/") ||
+      window.location.pathname === "/en" ||
+      window.location.pathname === "/en/"
+    const langFilteredResults = finalResults.filter((item) => {
+      const slugIsEn = (item.slug as string).startsWith("en/")
+      return isEnglish ? slugIsEn : !slugIsEn
+    })
+
+    await displayResults(langFilteredResults)
   }
 
   document.addEventListener("keydown", shortcutHandler)

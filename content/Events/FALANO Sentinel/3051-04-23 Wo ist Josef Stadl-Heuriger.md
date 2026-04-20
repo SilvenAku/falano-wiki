@@ -24,7 +24,7 @@ color:
 - **Start Date:** 3051-04-23
 - **The Climax:** Der FALANO Sentinel erfährt aus drei unabhängigen Quellen im [[Mothers Ring]], dass Stadl-Heirigers Nachbarin – eine Frau in den Sechzigern, die ihren Namen nicht nennen möchte – in der Nacht vom 22. auf den 23. April zwei Personen beobachtet hat, die Stadl-Heirigers Wohnungstür im dritten Stock des Hauses Rue Sainte-Croix 14 öffneten und für etwa 20 Minuten in der Wohnung verschwanden. Sie beschreibt: dunkle Kleidung, keine Uniformen, keine Abzeichen. Sie hat die Ordnungswache nicht gerufen. „Ich weiß nicht, ob das eine gute Idee gewesen wäre."
 - **End Date:** 
-- **Leading Figures:** [[Josef Stadl-Heuriger]], [[Lois McRacher]], [[Wai Utura]], [[Fennek Abarran]]
+- **Leading Figures:** [[Josef Stadl-Heuriger]], [[Lois McRacher]], [[Lin Anahad]], [[Fennek Abarran]]
 - **Factions Involved:** [[Ordnungswache]], [[Triumviratsrepublik Falano]], [[Kigal-Shu]]
 - **Casualties / Scope:** Eine Person vermisst; gesellschaftliche Beunruhigung im [[Mothers Ring]]; mögliche Behinderung eines laufenden Gerichtsverfahrens
 
@@ -41,7 +41,7 @@ color:
 > [!quote] Public Record / Propaganda
 > Das [[Ordnungsamt Founders Circle]] teilt schriftlich mit: „Es gibt keine Hinweise auf ein Fremdverschulden im Zusammenhang mit dem Aufenthalt von Herrn [[Josef Stadl-Heuriger]]. Er ist nach aktuellem Stand volljährig und berechtigt, seinen Aufenthaltsort frei zu wählen. Die [[Ordnungswache]] sieht keinen Handlungsbedarf." Eine Vermisstenanzeige wurde von einem Kollegen am [[Saint-Rousseau Cemetery]] eingebracht. Sie wird laut Pressebüro „bearbeitet".
 
-> [!danger] The Hidden Truth 
+> [!danger]- The Hidden Truth 
 > [[Josef Stadl-Heuriger]] ist nicht freiwillig gegangen. Er hat, bevor er den Gerichtssaal verließ, einen Umschlag bei der Garderobe des [[Obersten Gerichtshof von Falano|Obersten Gerichtshofs]] hinterlegt – adressiert an den FALANO Sentinel, ohne Absender. Der Umschlag wurde am späten Abend des 22. April von einem Gerichtsdiener der Redaktion überbracht. Sein Inhalt: eine handgezeichnete Skizze des vergitterten Kellerfensters und zwei Sätze in Stadl-Heirigers unverkennbarer Handschrift. Der Sentinel hat diese Informationen nicht veröffentlicht – noch nicht. Nicht weil sie unglaubwürdig sind. Sondern weil das Veröffentlichen sie möglicherweise unbrauchbar macht, bevor sie jemanden schützen können. Die Personen, die seine Wohnung aufgesucht haben, trugen dunkle Kleidung und keine Abzeichen. Das ist, im Erfahrungshorizont der Bewohner des [[Mothers Ring]], keine beruhigende Beschreibung.
 
 ## 📝 Personal Notes
@@ -50,7 +50,7 @@ Es gibt Geschichten, bei denen man als Journalist nicht weiß, ob man der Erste 
 
 [[Josef Stadl-Heuriger]] ist 61 Jahre alt. Er hat 34 Jahre lang die Tore des [[Saint-Rousseau Cemetery]] geöffnet und geschlossen. Er kennt die Gräber beim Namen der Verstorbenen. Er hat dem FALANO Sentinel am frühen Morgen des 22. April – vor seiner Aussage, im Eingangsbereich des [[Obersten Gerichtshof von Falano|Obersten Gerichtshofs]], während er auf den ersten Kaffee des Tages wartete – gesagt: „Ich habe keine Angst vor dem, was da unten ist. Ich habe Angst vor denen, die wissen, was da unten ist, und es trotzdem verschweigen."
 
-Nach seiner Aussage – jener Aussage, in der er unter Eid erklärte, das vergitterte Fenster am Vorabend offen vorgefunden zu haben – verließ er das Gebäude durch den Seitenausgang. Sein Kollege am [[Saint-Rousseau Cemetery]], ein gewisser Rémi Thouvenin, erwartet ihn seit zwei Tagen zur Schichtübergabe. Thouvenin hat am gestrigen Abend die Vermisstenanzeige eingebracht.
+Nach seiner Aussage – jener Aussage, in der er unter Eid erklärte, das vergitterte Fenster am Vorabend offen vorgefunden zu haben – verließ er das Gebäude durch den Seitenausgang. Sein Kollege am [[Saint-Rousseau Cemetery]], ein gewisser [[Rémi Thouvenin]], erwartet ihn seit zwei Tagen zur Schichtübergabe. Thouvenin hat am gestrigen Abend die Vermisstenanzeige eingebracht.
 
 Das [[Ordnungsamt Founders Circle]] hat auf Anfrage schriftlich mitgeteilt, es gebe „keine Hinweise auf ein Fremdverschulden". Diese Formulierung ist interessant. Sie schließt nicht aus, dass Hinweise auf anderes Verschulden vorliegen.
 

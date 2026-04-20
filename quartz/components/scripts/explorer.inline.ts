@@ -195,6 +195,18 @@ async function setupExplorer(currentSlug: FullSlug) {
       }
     }
 
+    // Language filter: nur Seiten der aktuellen Sprache anzeigen
+    const slugStr = currentSlug as string
+    const isEnglish = slugStr === "en" || slugStr.startsWith("en/")
+    trie.filter((node: FileTrieNode) => {
+      const nodeSlug = node.slug as string
+      if (isEnglish) {
+        return nodeSlug === "en" || nodeSlug.startsWith("en/")
+      } else {
+        return nodeSlug !== "en" && !nodeSlug.startsWith("en/")
+      }
+    })
+
     // Get folder paths for state management
     const folderPaths = trie.getFolderPaths()
     currentExplorerState = folderPaths.map((path) => {

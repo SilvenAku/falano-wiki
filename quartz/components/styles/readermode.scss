@@ -21,27 +21,3 @@
   }
 }
 
-:root[reader-mode="on"] {
-  // Einzelne Kinder der linken Sidebar ausblenden, Sprachumschalter ausgenommen
-  & .sidebar.left > *:not(.language-switcher) {
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.2s ease;
-
-    &:hover {
-      opacity: 1;
-      pointer-events: auto;
-    }
-  }
-
-  & .sidebar.right {
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.2s ease;
-
-    &:hover {
-      opacity: 1;
-      pointer-events: auto;
-    }
-  }
-}

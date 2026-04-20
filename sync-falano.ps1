@@ -17,6 +17,9 @@ $ExcludeFolders = @(
     "Tags"
 )
 
+# Dateimuster die NICHT synchronisiert werden sollen
+$ExcludeFiles = @("*.mdb", "*.db", "def.json", "views.mdb")
+
 Write-Host "=====================================" -ForegroundColor Cyan
 Write-Host "  FALANO UNIVERSE - Wiki Sync" -ForegroundColor Cyan
 Write-Host "=====================================" -ForegroundColor Cyan
@@ -31,6 +34,7 @@ if (-not (Test-Path $QuartzContent)) {
 
 # Baue den Exclude-Filter fuer robocopy
 $ExcludeArgs = $ExcludeFolders | ForEach-Object { "/XD", $_ }
+$ExcludeFileArgs = $ExcludeFiles | ForEach-Object { "/XF", $_ }
 
 # Synchronisiere Markdown-Dateien
 Write-Host "[>>] Synchronisiere Markdown-Dateien..." -ForegroundColor Yellow
@@ -44,7 +48,7 @@ $robocopyArgs = @(
     "/NJS",         # Keine Job-Zusammenfassung
     "/NFL",         # Keine Dateiliste (saubere Ausgabe)
     "/NDL"          # Keine Verzeichnisliste
-) + $ExcludeArgs
+) + $ExcludeArgs + $ExcludeFileArgs
 
 & robocopy @robocopyArgs | Out-Null
 
@@ -110,6 +114,14 @@ if ($action -eq "p" -or $action -eq "b") {
 
         git add .
         git commit -m $commitMsg
+
+        Write-Host "[>>] Hole neueste Aenderungen vom Server..." -ForegroundColor Cyan
+        git pull --rebase
+        if ($LASTEXITCODE -ne 0) {
+            Write-Host "[!] git pull fehlgeschlagen. Bitte Konflikte manuell loesen." -ForegroundColor Red
+            exit 1
+        }
+
         git push
 
         Write-Host ""

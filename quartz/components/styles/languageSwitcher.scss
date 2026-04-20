@@ -2,6 +2,7 @@
   display: flex;
   align-items: center;
   gap: 0.3rem;
+  flex-shrink: 0;
 
   .lang-btn {
     padding: 0.15rem 0.45rem;
@@ -13,11 +14,13 @@
     color: var(--darkgray);
     border: 1px solid var(--lightgray);
     transition: background 0.15s ease, color 0.15s ease;
+    cursor: pointer;
 
     &.active {
       background-color: var(--secondary);
       color: var(--light);
       border-color: var(--secondary);
+      pointer-events: none; // aktiver Button ist nicht nochmal klickbar
     }
 
     &:hover:not(.active) {
@@ -31,4 +34,12 @@
     font-size: 0.75rem;
     user-select: none;
   }
+}
+
+// Sprachumschalter bleibt im Reader Mode immer sichtbar
+:root[reader-mode="on"] .sidebar.left .language-switcher {
+  opacity: 1 !important;
+  pointer-events: all !important;
+  position: relative;
+  z-index: 10;
 }

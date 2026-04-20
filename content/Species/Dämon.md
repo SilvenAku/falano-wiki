@@ -9,4 +9,5 @@ type:
 origin location:
   - "[[Infernal Plane]]"
 intelligence: true
+draft: false
 ---

@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: red
+draft: false
 ---
 Ein Sensationsfund aus dem Herzen der [[VEU]]. Eine über 1000 Jahre alte Halskette ist in einem verfallenen Haus im sogenannten Salzkammergut aufgetaucht. Soweit nichts besonders, außer, dass es sich um einen Anhänger aus Holz handelt. Auf den ersten Blick wirkt es wie eine Insel oder ein verflossenes Spätzle. Tatsächlich handelt es sich aber um eine uralte Abbildung des [[Attersee|Attersees]], dessen Form sich über die Jahrhunderte auch nur minimal verändert hat.
 "Durch jahrelanges Studium konnten wir über unsere reichhaltige Expertise nun klären, dass es sich tatsächlich um den Attersee handelt." So die Expertin für das alte Salzkammergut an der Oida Universität Eurom, [[Renate Grauburgunder]]. Die unmittelbare Nähe des Fundortes zum See soll dabei nur eine geringe Rolle im Analyseprozess gespielt haben.

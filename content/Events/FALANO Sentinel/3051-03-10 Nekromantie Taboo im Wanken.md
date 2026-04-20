@@ -11,6 +11,7 @@ type:
   - range
 color:
   - red
+draft: false
 ---
 
 # 📅 Event: 3051-03-10 Nekromantie Taboo im Wanken

@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: green
+draft: false
 ---
 Der Neunte Kreis ist eine in [[Falano Port]] ansässige und illegale Fraktion, deren Ziel es ist, die Tore von Gehenna zu öffnen, um die Dämonen in die irdische Dimension zurückzuholen. Ihrer Meinung nach, sind die Dämonen die wahren Herrscher aller Welten.
 ### Structure/Hierarchy

@@ -1,6 +1,7 @@
 ---
 created: 2024-03-16T11:30:00
 tags:
+draft: false
 ---
 Die Magna Carta ist das Menü von [[Gottfenster]], in dem sämtliche buttrigen Gerichte aufgelistet sind. Vom [[Distributtor]] wird erwartet, die Speisen auf der Magna Carta auswendig zu kennen und jederzeit zur Verfügung stellen zu können.
 

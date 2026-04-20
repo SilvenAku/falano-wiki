@@ -1,1 +1,5 @@
+---
+draft: false
+---
+
 Im Kastensystem der [[Ecclesia Aeterni Fons]] eine höhergestellte Seele. Übersetzt eine "Große Seele" die bei ihrem Tod auf dem See [[Porta Lacus]] bestattet werden.

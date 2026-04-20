@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 Sir Gal. Sean Eli van Hoovers
 10.1.2772
 

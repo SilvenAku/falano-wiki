@@ -20,6 +20,7 @@ aeon-relations:
   - "[[Osiris Walaux]]"
   - "[[Juliette Rose Walaux]]"
   - "[[Harrison James Walaux]]"
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

@@ -15,6 +15,7 @@ color:
   - blue
 aeon-relations:
   - "[[6 Der Vorsitzende des Kuratoriums]]"
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

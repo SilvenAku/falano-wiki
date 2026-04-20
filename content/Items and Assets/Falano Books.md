@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 ## Ursprung
 Der Ursprung der Falano Books ist nicht geklärt. Ihre Produktion geschieht an mehreren Orten, die voneinander nichts wissen konnten. So gibt es eine Manufaktur in der [[Hafenstadt Falano]] auf [[Elathor]] und eine Produktion auf [[Terra]] nahe dem [[Attersee]]. Alle Hersteller behaupten sie erfunden zu haben. 
 Das Symbol ||[]|| ist immer dasselbe und auch darum ranken sich viele Mythen. Auf Elathor vermutet man den Ursprung des Symbols in den Gründungsschiffen die im Zuge des [[Sonhennaus Projekt]] den Handelshafen Falano gründeten. Die Hafenstadt ist auf Elathor der einzige Produktionsstandort für die Falano Books. Dort erwarb auch [[Warin Walaux]] seines, das später seine mächtigsten Zauber enthalten sollte und als sein Grimoire irgendwo im [[Falano Port]] versteckt liegt.

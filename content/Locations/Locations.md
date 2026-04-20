@@ -9,4 +9,5 @@ _sort:
 _template: ""
 _templateName: ""
 sticker: emoji//1f30f
+draft: false
 ---

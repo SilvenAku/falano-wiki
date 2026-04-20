@@ -10,6 +10,7 @@ type:
   - range
 color:
   - red
+draft: false
 ---
 Zehntausend Lorick-Larven in Olivengläsern versteckt!
 

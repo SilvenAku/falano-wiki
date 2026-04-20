@@ -26,6 +26,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Die Gruppe stellt die richtige Besessene auf dem [[Bahnhof Lincoln Street]] und bringt über ein Mantra von [[Merakor Polymeropulos]] den Namen des Dämons [[Hadrat]] in Erfahrung. Anschließend stürmen Sicherheitskräfte das Bahnhofsgelände und der Dämon kann entkommen. Er schießt noch mit einem Blaster auf [[Naldor Kant]]und wirft sich anschließend selbst vor den nächsten Zug. [[Naldor Kant]] sieht [[Emilia Schönfels]] am Bahnhof, ehe er das Bewusstsein verliert.

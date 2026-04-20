@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 ## Ursprung des Universums
 
 Im Falano-Universum beginnt alles mit einer fundamentalen Erkenntnis: Es ist nicht logischer, dass zuerst "Nichts" da war und dann "Etwas" entstand. Ebenso wenig ist es logischer, dass Energie plötzlich aus dem Nichts entstand. Vielmehr ist es unmöglich zu sagen, was zuerst existierte. Daher beginnt das Verständnis des Falano-Universums **nicht bei einer Leere**, sondern bei der **Dualität von "Etwas" und "Nichts"**, verstanden als Formen von Energie.

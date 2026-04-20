@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: red
+draft: false
 ---
 Die [[Die große Flut auf Terra|große Flut auf Terra]] war der Auslöser für die Erste große Landflucht auf [[Terra]]. Sie ereignete sich im Jahr 2098 und veränderte das gesamte Landschaftsbild der Welt drastisch. Weite Teile der Welt wurden verlassen und ließen Ruinenstädte zurück, während anderenorts die Städte zu gewaltigen Megacities aufgebläht wurden. 
 

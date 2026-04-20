@@ -14,5 +14,6 @@ color: red
 aeon-relations:
   - "[[Jalrik Tsun Ho Ganta]]"
   - "[[Falano Port]]"
+draft: false
 ---
 Der ehemalige Oberste Kanzler von Falano erlässt das Ho Ganta Protokoll, um den Einfluss der KIs zu drosseln. Grund dafür waren die vorhergehenden Ausschreitungen und Rebellionen der KIs gegen ihre Herrscher.

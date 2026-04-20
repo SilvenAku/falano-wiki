@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 Meine Finger streichen über die Oberfläche des Kaminsims und eine feine Schwade aus kleinsten Staubpartikeln wird, durch den Strahl einer einzelnen schwachen Lichtquelle, die durch das Fenster in den Raum dringt, sichtbar. 
 Wann war ich das letzte Mal hier? 
 Ich blicke langsam durch den Raum.

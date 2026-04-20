@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 In einer dunklen Seitengasse, die selbst das Licht zu meiden schien, lag ein alter Mann am Boden. Sein lädierter Ledermantel war offen und konnte ihn so nicht vom leichten Regen schützen, der der städtischen Geräuschkulisse einen beruhigenden Unterton verlieh. Er haderte mit sich, aufzustehen und ein weiteres Mal sein elendes Dasein zu fristen. Und doch hatte er noch ein letztes Bedürfnis. Er wusste, er musste es erfüllen, bevor er sein Leid loswerden konnte und so raffte er sich hoch. Das Aufstehen war mittlerweile ein langer und kräfteraubender Prozess geworden. Manche Bewegungen ließ sein Körper aufgrund vergangener Verletzungen oder Schmerzen nicht mehr zu, die Muskeln waren träge und schwach, die Sinne getrübt und der nasse und ölige Dreck in der Gasse machte es auch nicht leichter.
 Und als er dann endlich schwankend stand, machte er sich auf den Weg, um seine Geschichte zu erzählen.
 

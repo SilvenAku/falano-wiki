@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 In der Gesellschaft des [[Sirratal|Sirratals]] findet der sogenannte "Lord Well" einen zentralen spirituellen Platz in jedem gläubigen Haushalt. Da im Sirratal eine strenge theologische Lehre zu Ehren des [[Lord of Spring]] vorherrschend war und von der [[Ecclesia Aeterni Fons|Sirrataler Kirche]] vorgegeben wurde, konnte man tatsächlich fast in jedem Haushalt einen dieser Brunnen in verschiedensten Ausführungen vorfinden.  
 ![[Lord Well 5.gif]]
 In der Sirrataler Gesellschaft war es ein Zeichen von Höflichkeit und gutem Anstand, sich beim Eintritt in ein Heim die Hände mit frischem sauberen Wasser zu waschen. Dazu wurde in der Regel ein kurzes Mantra zu Ehren des Lord of Spring gesprochen.

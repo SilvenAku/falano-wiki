@@ -1,1 +1,5 @@
+---
+draft: false
+---
+
 Synonym für alle Kreise der Hölle. Der Zugang zur Infernal Plane ist das [[Tor von Gehenna]]. Alle [[Dämon|Dämonen]] haben ihren Ursprung auf der Infernal Plane.

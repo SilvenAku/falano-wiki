@@ -27,6 +27,7 @@ Published: true
 type:
   - range
 banner: ZZ Media/Stories/006 Der Vorsitzende des Kuratoriums.png
+draft: false
 ---
 ## Header
 ![[006 Der Vorsitzende des Kuratoriums.png]]

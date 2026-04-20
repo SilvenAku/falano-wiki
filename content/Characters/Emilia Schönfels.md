@@ -15,6 +15,7 @@ color:
   - blue
 aeon-relations:
   - "[[4 Die Kollegin]]"
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

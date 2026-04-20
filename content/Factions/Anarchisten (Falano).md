@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: green
+draft: false
 ---
 > *Fall der Häuser von Falano*
 

@@ -9,5 +9,6 @@ tags:
 type:
   - range
 color: red
+draft: false
 ---
 Die Dritte Große Landflucht bezeichnet den plötzlichen starken Wegzug vom ländlichen Raum in die Großstädte der [[VEU]]. Sie beschreibt die letzte große Landflucht und ist verantwortlich für eine Intensivierung der Ruinenstädtensituation und weitreichenden Infrastrukturverlusts in den peripheren Regionen. Ein massiver Rückbau des Angebots zur Mobilität und Warendistribution.

@@ -11,6 +11,7 @@ Passive Chars:
 Ready: false
 Published: false
 type: []
+draft: false
 ---
 ## Timeline
 ```ob-timeline

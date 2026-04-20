@@ -15,6 +15,7 @@ color:
   - blue
 aeon-relations:
   - "[[7 Alumni des Ordens]]"
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

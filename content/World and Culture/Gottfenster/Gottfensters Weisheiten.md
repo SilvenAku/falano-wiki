@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 Das Böbi
 Das Butterbaiser
 Das Schmorbutterbaiser

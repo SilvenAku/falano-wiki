@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: red
+draft: false
 ---
 Das erste Sirratal Topos -> Als Trailer für die bald erscheinende Sirratal Documentation Series on YouTube.
 

@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 
 Nachdem [[Merakor Polymeropulos]] die [[Auflösung der Konvergenz von Gehenna]] im Jahre 2797 verursachte und anschließend eine große Säuberungswelle über die [[Material Plane]] zog, wurden die [[Dämon|Dämonen]] praktisch von ihr fortradiert. Es kann nicht gesagt werden wie viele es schafften sich zu verstecken, es ist allerdings von einem einzigen bekannt. [[Hadrat]] wurde vor der Auflösung beschworen und aufgrund der Abschottung des [[Sirratal|Sirratals]] verblieb er dort, bis er über einen Wirt schließlich entkommen konnte. Er reist nach [[Falano Port|Falano]] und die Geschichte beginnt:
 

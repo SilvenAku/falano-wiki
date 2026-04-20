@@ -9,4 +9,5 @@ type:
 origin location:
   - "[[Melran]]"
 intelligence: true
+draft: false
 ---

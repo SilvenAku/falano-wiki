@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 # FALANO UNIVERSE – Masterplan
 > Automatisch generiert am 2026-03-09. Kann jederzeit aktualisiert werden.
 

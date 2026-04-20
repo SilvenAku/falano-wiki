@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: red
+draft: false
 ---
 [[Gloria Pax]]Veranstalterin und Gouverneurin
 [[Alejandro Guiseppe Verde]]Manufakturvereinigung 

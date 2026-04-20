@@ -15,6 +15,7 @@ color:
   - blue
 aeon-relations:
   - "[[Ho-Ganta-Ptokoll]]"
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: green
+draft: false
 ---
 > *Auro loquente omnis oratio inanis est*
 

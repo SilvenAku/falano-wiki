@@ -27,6 +27,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Die Zusammenfassung des Teils handelt von einem Treffen zwischen Merakor Polymeropulos, einer Professorin und anderen Charakteren in seinem persönlichen Hangar. Sie diskutieren über die Flugtauglichkeit seines alten Raumschiffs, das von einer KI namens Xanti gesteuert wird. Es wird enthüllt, dass KIs in Falano seit 110 Jahren verboten sind, aufgrund vergangener Aufstände. Trotzdem wird beschlossen, das Schiff zu benutzen, und Merakor wird in eine Urne gesaugt, während sie sich auf den Weg nach Bethlehem machen.

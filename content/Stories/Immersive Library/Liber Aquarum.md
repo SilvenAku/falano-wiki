@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 
 > [!NOTE] About
 > Das Liber Aeterni Fontis ist die Grundlage des Dogmas der [[Ecclesia Aeterni Fons]]. Es ist sozusagen die Bibel des [[Sirratal|Sirratals]].

@@ -25,6 +25,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Kant gewinnt ein Wortgefecht gegen Emilia Schönfels und anschließend beratet er sich gemeinsam mit seinem Kollegen Barres, wie sie in die Pathologie gelangen könnten. Kant erzählt von der Deckades Leidenschaft des Pathologen und erzählt, er habe einen Parkplatz bei der Pathologie bei einem Deckades Match gewonnen. Naldor kann im Moment keine Echos konzentrieren.

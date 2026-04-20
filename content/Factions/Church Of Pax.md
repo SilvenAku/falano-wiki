@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: green
+draft: false
 ---
 Die Church Of Pax ist eine in [[Selesta Prime]] ansässige Fraktion.
 ### Structure/Hierarchy

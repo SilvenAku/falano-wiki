@@ -26,6 +26,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Naldor wird zunehmend kraftloser durch die Vocem Noctis. Sie erreichen den Kartellpalast und finden ihn von Anarchisten umstellt vor. Sean sieht die Häuser nicht als bestes Modell an und kann die Anarchisten verstehen. Sie finden Stoica die den Verlust ihres Ehemanns wütend betrauert. Sie gibt den Aradan die Schuld und scheint die Dinge selbst regeln zu wollen. Naldor rät ihr davon ab und bittet um Erlaubnis die Gemächer untersuchen zu dürfen.

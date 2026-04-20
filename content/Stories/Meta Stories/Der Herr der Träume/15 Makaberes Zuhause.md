@@ -22,6 +22,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Die Herren durchsuchen das Gemach von Tilman Gandradi in Stoicas Anwesen. Es handelt sich um ein viktorianisches, sehr makaberes Zuhause mit Azteken Exponaten. Sie finden wieder gekritzelte Fratzen und Naldor macht ein Blatt mit dem Namen von Fr. Lefevre im Schreibtisch ausfindig. Naldor kennt sie, sie lebt im Orden.

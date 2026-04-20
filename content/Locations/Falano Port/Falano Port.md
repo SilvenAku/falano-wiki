@@ -8,6 +8,7 @@ end-date:
 tags:
   - timeline
   - location
+draft: false
 ---
 ![[FALANO Port scribble.png]] 
 ![[Falano Port.png]]

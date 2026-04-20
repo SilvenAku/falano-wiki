@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: red
+draft: false
 ---
 Vor zweieinhalb Jahren haben wir gewählt und die Sitze im Nationalrat der Republik Falano wurden neu verteilt. Traditionell ändern sich die Sitze nur marginal meist ein ganz geringer Anteil davon unter den drei Häusern und mehr zwischen den Republiksparteien der Bürgerinnen und Bürger. Jetzt ist es an der Zeit Bilanz zu ziehen. Welche Versprechen konnte der Nationalrat mit seiner Regierung tatsächlich halten und wo sind Missstände aufgetreten? Wie ist die Meinung der Bevölkerung über ihre gewählten Volksvertreter? Dazu haben wir unsere Politikexpertin Dr. Eleanor Smith eingeladen.
 

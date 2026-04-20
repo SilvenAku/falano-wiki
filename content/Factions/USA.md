@@ -10,6 +10,7 @@ type:
   - range
 color:
   - green
+draft: false
 ---
 > *credo*
 

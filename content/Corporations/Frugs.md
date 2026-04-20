@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: orange
+draft: false
 ---
 
 # 🏢 Konzern: Frugs

@@ -10,6 +10,7 @@ type:
 template: Event
 created: 2024-01-13T12:27:00
 color: red
+draft: false
 ---
 Ein regierungsnaher fundamentalistischer Beamter Nuntius Sirr'Wall (Nach der Namensrevolution im Sirratal im Jahr 2511) bekam das Anwesen vom regierenden Erzbischof überschrieben. In dieser Phase wurden alle Elemente des ehemaligen Clubs eliminiert und in das Kulturbild der Sirrataler Kirche rückgeführt.
 [[Edward Sirr'Wall]] liebte auch die Weine des [[Chateau Liraux]] und kaufte große Mengen davon. Unter anderem soll er auch durch seine Nähe zur [[Ecclesia Aeterni Fons]] in seiner Funktion als Nuntius, einige seltene Flaschen des Aderlass besessen haben. Er soll ein Feinschmecker gewesen sein.

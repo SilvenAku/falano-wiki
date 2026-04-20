@@ -8,6 +8,7 @@ tags:
 type:
   - range
 color: blue
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

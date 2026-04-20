@@ -1,5 +1,6 @@
 ---
 aliases:
+draft: false
 ---
 Ladadhahdidvkd asdasdasdasdasd
 Djsvdkdvks

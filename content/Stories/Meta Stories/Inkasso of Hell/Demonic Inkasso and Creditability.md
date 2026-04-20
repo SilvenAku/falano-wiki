@@ -16,6 +16,7 @@ Ready: false
 Published: false
 type:
   - range
+draft: false
 ---
 ## Header
 ## Summary

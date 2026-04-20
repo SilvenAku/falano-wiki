@@ -12,6 +12,7 @@ species:
   - "[[Geist]]"
 color:
   - blue
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

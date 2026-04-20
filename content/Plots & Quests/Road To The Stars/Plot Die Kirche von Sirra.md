@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 Die kleine Insel auf der der Spieler aufwacht bekommt eine eigene kleine Geschichte, die auf den Glauben im Sirratal abzielt. Schließlich bekommt der Spieler mehr Infos dazu und wie die [[Ecclesia Aeterni Fons|Kirche]] auch das Anwesen geprägt hat. (Brunnenkultur etc.)
 Auf der Insel gibt es eine Statue von Nepomuk die von den Sirratalern als der [[Herr der Quelle]] bezeichnet und verehrt wird.
 

@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 Die Vocem Noctis sind Stimmen, die nicht alle [[Fehin]] hören können und von der Vergangenheit an Orten berichten können. Es sind eingebrannt Überreste von Stimmen an einem Ort, sie werden auch 'Echos' genannt und können bei besonders sensitiven Personen auch als Bilder vor dem geistige Auge in Erscheinung treten. Manche Personen haben oder entwickeln Kräfte, um jene Stimmen hören zu können. Es handelt sich dabei nicht um die Stimmen von Geistern. Mit den Vocem Noctis kann nicht viel gesprochen werden, weil sie eigentlich nicht mehr existieren. Sie haben sich lediglich wie ein Bild auf einem Display eingebrannt.
 Sie können der hörenden Person wertvolle zusätzliche Informationen bringen, die nicht mit bloßem Auge sichtbar sind. Auf der anderen Seite können sie einen Nutzer auch in den Wahnsinn treiben, indem sie ständig mit ihm sprechen. Gegen Letzteres kann ein ein [[Lapis Somniorum]] helfen, um die Stimmen verstummen zu lassen. Das Krankheitsbild Vocem Noctis ist genau dieser Fall, wenn eine sensitive Person sich nicht mehr erholen kann von der Übermacht an Stimmen. Das passiert ausschließlich Personen mit Sensitivität durch Geburt und ist äußerst selten.
 

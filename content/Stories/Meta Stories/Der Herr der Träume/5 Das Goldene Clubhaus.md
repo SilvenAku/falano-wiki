@@ -24,6 +24,7 @@ Published: true
 type:
   - range
 banner: ZZ Media/Stories/005 Das Goldene Clubhaus.png
+draft: false
 ---
 ## Header
 ![[005 Das Goldene Clubhaus.png]]

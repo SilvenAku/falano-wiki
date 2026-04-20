@@ -9,4 +9,5 @@ type:
 origin location:
   - "[[Chalagar]]"
 intelligence: true
+draft: false
 ---

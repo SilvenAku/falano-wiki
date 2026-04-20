@@ -11,6 +11,7 @@ type:
   - range
 color:
   - red
+draft: false
 ---
 Achat-Klischkowa Persona non grata?
 Die Sprecherin des Betriebsrates [[Harani Achat-Klischkowa]] tritt zurück. In der zweiten Verhandlungsrunde zu den Kollektivverträgen der Belegschaft der Farlines wurden Informationen an die Ordnungswache übermittelt, die die Aufenthaltsgenehmigung der Chefverhandlerin des Betriebsrates in Frage stellen. So soll sich Harani Achat-Klischkowa seit 30 Jahren illegal im Port aufhalten. [[Karl McClair]], Personalchef von Farlines erklärt, man habe "eine Routineprüfung in den Personalpapieren durchgeführt" und musste feststellen, dass "einige Dokumente von Frau Achat Klischkowa unstimmig sind". Was genau in den Papieren nicht stimmen zu scheint wurde der Redaktion auf Ansuchen nicht mitgeteilt. Die erste Folge aus dieser Nachricht: Der Rücktritt von Harani Achat-Klischkowa als Sprecherin des Betriebsrates. Sie erklärt "rechtmäßig ihr gesamtes Leben in Falano" verbracht zu haben und nur aus "Zeitdruck für die Kollektivverhandlungen und deren Erfolg" zurückzutreten und an ihren "kompetenten Kollegen, Alexis Krokant" zu übergeben.

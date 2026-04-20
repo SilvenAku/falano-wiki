@@ -28,6 +28,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Die Gruppe befindet sich an Borad der Demon Hunter und ist unterwegs in Richtung Terra. Sie befinden sich alle im Gemscheinaftsraum und sprechen über die extreme Bürokratie die sie am Erdenmond erwarten wird, nachdem die Erde immer noch sehr gespalten ist. Für Sean Barres ist das alles sehr neu, er war noch nie auf Terra. Schließlich geht Leya Kor ins Bett und Sean Barres und Naldor Kant sprechen über Cornelius McClair und Emilia Schönfels und darüber was am Bahnhof Lincoln Street passiert ist. Sean Barres erklärt, dass die Aufzeichnungen aus den Archiven verschwunden sind und dass er und Leya Kor Cornelius McClair nur so wenig wie möglich erzählt haben, da sie nicht wissen, wer für die verschwundenen Informationen verantwortlich ist. Leya Kor hat erzählt, dass sie ein verfluchtes Mädchen am Bahnhof heilen wollten. Nachdem das Mädchen gestorben ist hat Cornelius McClair den Fall geschlossen. Kant ist im Krankenstand und Sean hat sich für ihren Ausflug Urlaub genommen. Naldor Kant spricht Sean Barres bezüglich Wai Tan an und ob ihm das was ausmacht. Sean Barres meint sie hätten ohnehin keine andere Wahl. Sie vermuten, dass eventuell Cornelius McClair für das Verschwinden der Aufzeichnungen verantwortlich ist. Sie wissen allerdings nicht warum und vor was er Emilia Schönfels schützen möchte, denn sie alleine könnte nichts aus den Archiven entwenden.

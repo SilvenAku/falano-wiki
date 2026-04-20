@@ -8,6 +8,7 @@ _sort:
   group: false
 _template: ""
 _templateName: ""
+draft: false
 ---
 Das Tarottl ist das Tarot von [[Gottfenster]].
 

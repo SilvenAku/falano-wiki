@@ -23,6 +23,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Barres bemerkt ein Problem mit der Klimaanlage im Taxi, während sie durch die Wüste fahren. Die Audiatorin erklärt, dass der Sonnenschutz heruntergefahren werden muss, um effektiv zu kühlen. Während der Fahrt erfahren sie von einer extremistischen Gruppe namens Armee von Jerusalem, die das Gebiet schützt. Plötzlich entdecken sie einen blinden Passagier im Taxi, einen Melranier, den der Fahrer als Parasit betrachtet. Sie machen einen Zwischenstopp, wo der Fahrer und seine Kollegen den Passagier aus dem Taxi ziehen, um ihn zu eliminieren. Kant schlägt vor, mit dem Parasiten zu kooperieren, um seine eigenen Kräfte zu verstärken und den Melranier zu retten.

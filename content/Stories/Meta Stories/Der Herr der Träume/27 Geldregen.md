@@ -28,6 +28,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Du Gruppe berät, wie sie zu einem Schiff kommen kann, um auf [[Terra]] reisen zu können. Schließlich erklärt [[Merakor Polymeropulos]], dass er sein Vermögen noch immer besitzt und sie darauf zugreifen können, um ihre Mission zu erfüllen. [[Sean Luce Barres]] und [[Merakor Polymeropulos]] machen sich zur Krypter am [[Saint-Rousseau Cemetery]] auf, um das Geld zu holen, während [[Naldor Kant]] unterstützt von [[Leya Kor]] sich zum [[Polymeropulos Anwesen]] aufmachen.

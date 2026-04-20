@@ -6,6 +6,7 @@ end-date:
 tags:
   - timeline
   - location
+draft: false
 ---
 Der Planet wurde durch das [[Merchanteth]] im Jahr 2432 aufgrund der Bedrohung von Elathor geöffnet. Im Jahr 2528 kappte das [[Merchanteth]] auf Elathor diese Öffnung wieder und sperrte den Orbit völlig ab.
 

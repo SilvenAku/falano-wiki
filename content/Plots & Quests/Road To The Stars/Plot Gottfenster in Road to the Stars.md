@@ -1,1 +1,5 @@
+---
+draft: false
+---
+
 Referenzen in Büchern und Bildern zu einem ominösen Gottfenster der in einem Fremden Land regiert und kafkaesk agiert.

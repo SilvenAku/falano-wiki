@@ -12,6 +12,7 @@ species:
   - "[[Melranier]]"
 color:
   - blue
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

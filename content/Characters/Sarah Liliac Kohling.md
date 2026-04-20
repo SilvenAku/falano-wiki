@@ -13,6 +13,7 @@ faction:
   - "[[Aradan (Klub)]]"
 species:
   - "[[Mensch]]"
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

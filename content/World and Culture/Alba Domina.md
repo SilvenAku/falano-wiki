@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 Eine Alba Domina ist eine wiedergekehrte Päpstin. Es ist nicht bekannt warum und woher sie genau kommen.
 Die Albae Dominae können als ehemalige Medien beschrieben werden die eine Brücke zu einem göttlichen Wesen darstellten. Nach ihrem Tod scheinen manche die Fähigkeit zu haben aus unterschiedlichsten Gründen zurückzukommen und Personen zu leiten und ihnen Führung zu geben. Das Symbol von Päpstinnen ist das [[Petruskreuz]].
 [[Merakor Polymeropulos]] erklärt, dass sie jedem erscheinen können, es aber bei den wenigsten tatsächlich tun.

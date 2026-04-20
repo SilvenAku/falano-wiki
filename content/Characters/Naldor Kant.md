@@ -18,6 +18,7 @@ species:
 color:
   - blue
 aeon-relations:
+draft: false
 ---
 ### Summary
 

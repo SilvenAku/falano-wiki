@@ -23,6 +23,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Nachdem Naldor seine Kräfte eingesetzt hat, um die Menschen und Sin Lik von dem Melranier abzulenken und ihn zu retten, setzen sie ihre Fahrt fort und erreichen schließlich die Vorstadt von Bethlehem. Dort treffen sie auf Sin Lik, einen Melranier, der erklärt, dass er gekommen ist, um eine Wissenschaftlerin zu retten, die von der [[Armee von Jerusalem]]  verfolgt wird. Die Wissenschaftlerin hat sich verkleidet, um unentdeckt zu bleiben, aber sie wurde möglicherweise enttarnt. Sin Lik erklärt, dass sie in der Nähe von Dayr Kirmizan ein Versteck hat. Die Gruppe beschließt, ihm bei der Rettung seiner Freundin zu helfen und sich auf den Weg zu ihrem Unterschlupf zu machen. Als Sin Lik fragt, wer sie sind und wie sie es geschafft haben, ihn zu retten, gibt die Audiatorin vor, einfache Pilger zu sein, die auf dem Weg zur Geburtskirche sind.

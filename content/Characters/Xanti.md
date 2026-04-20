@@ -13,6 +13,7 @@ species:
   - "[[KI]]"
 color:
   - blue
+draft: false
 ---
 ### Summary
 Prompt for ChatGPT:

@@ -9,6 +9,7 @@ tags:
 type:
   - range
 color: red
+draft: false
 ---
 Architektin des Freedom Circle ist tot!
 Sie war die letzte große Architektin unseres geliebten Falano Ports, [[Sade Adebayo]] und dadurch die letzte Trägerin des [[Osmium Ordens]], der einzig jenen Individuen verliehen wird, die sich um die Expansion des Ports annehmen und massiv an seiner Konstruktion mitwirken. 

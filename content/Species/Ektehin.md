@@ -9,4 +9,5 @@ type:
 origin location:
   - "[[Elathor]]"
 intelligence: true
+draft: false
 ---

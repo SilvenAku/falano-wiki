@@ -11,6 +11,7 @@ type:
   - range
 color:
   - red
+draft: false
 ---
 
 # 📅 Event: 3051-04-15 Das Geheimnis des Mothers Ring

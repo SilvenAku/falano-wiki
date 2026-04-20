@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 1. **Kenntnis der Dämonologie**: Die Beschwörer müssen über Kenntnisse der Dämonologie verfügen, einschließlich der Namen, Eigenschaften und Hierarchien von Dämonen.
     
 2. **Ritualvorbereitung**: Es können spezielle Vorbereitungen wie Reinigungsrituale, Gebete oder Meditationen erforderlich sein, um den Geist auf die Beschwörung vorzubereiten.

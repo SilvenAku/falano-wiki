@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 "Lebt er noch?"
 "Ich habe keine Ahnung, ich höre nichts mehr."
 "Lass uns das Paket schnell zum Headquater bringen, dann schnappen wir uns das Geld und weg sind wir."

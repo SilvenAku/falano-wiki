@@ -10,6 +10,7 @@ tags:
 type:
   - range
 color: red
+draft: false
 ---
 
 

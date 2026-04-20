@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 #road-to-the-stars-plots
 Der Spieler findet den Weg raus aus dem Tal, nach FALANO. Er entdeckt wie ein Bewohner des Anwesens schließlich entkommen konnte. Immer wieder auch in Verbindung mit den [[Plot FALANO Books in Road to the Stars|Falano Books]] wird dem Spieler das mysteriöse [[Falano Port|Falano]] erklärt. Der Spieler weiß am Anfang nicht einmal ob es überhaupt existiert. Es muss ein magisch Gefühl auslösen, wenn der Spieler schließlich erkennt, dass es letztlich einen Weg dorthin gibt.
 Der Spieler erwacht auf der Insel im See. Es befindet sich eine Statue auf der Insel und ein altes futuristisch aussehendes Boot. Der Spieler kann das Boot aber noch nicht verwenden, weil er eine Art Schlüsselkarte braucht, um es zu aktivieren. Der Spieler erkundet die winzige Insel und entdeckt ein altes Lager unter dem Podest der Statue.

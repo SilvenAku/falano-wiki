@@ -8,4 +8,5 @@ type:
   - range
 origin location: 
 intelligence: true
+draft: false
 ---

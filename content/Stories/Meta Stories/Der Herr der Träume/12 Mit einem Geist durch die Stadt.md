@@ -22,6 +22,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Merakor gibt eine erste Unterrichtsstunde zur Dämonologie und erklärt, dass Falano wegen dem Grimoire von Warin Walaux so interessant für Dämonen ist. Sie strömen nach Falano wie Motten ins Licht. Um den Dämon ausfindig machen zu können benötigen Sie eine Spur von ihm, oder können seine Magie tracken, da Schwarze Magie immer Spuren hinterlässt.

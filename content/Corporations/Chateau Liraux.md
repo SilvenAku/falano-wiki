@@ -7,6 +7,7 @@ tags: #organisation #corporation
 type:
   - range
 color: orange
+draft: false
 ---
 
 # 🏢 Konzern: Chateau Liraux

@@ -26,6 +26,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 [[Leya Kor]] und [[Naldor Kant]] sind auf dem Weg zu [[Merakor Polymeropulos]] Anwesen. Sie reisen mit den öffentlichen Verkehrsmitteln, um möglichst verdeckt zu bleiben. Auf ihrem Weg durch den [[Cognac District]] sprechen sie über [[Merakor Polymeropulos]] und philosophieren über das “Schicksal” das für [[Naldor Kant]] das einzige glaubenswerte darstellt. Schließlich erreichen sie das Anwesen und [[Leya Kor]] bricht den Schutzzauber, der das Anwesen umgibt und das Tor öffnet sich.

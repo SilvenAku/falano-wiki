@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 ## Grund
 Hier soll geschrieben werden woher die [[Falano Books]] kommen. Es geht dabei nicht um die Orte der Manufakturen, sondern um den Hintergrund mit Blick auf die Wassergeister und Luftgeister. Was möchten sie mit den Büchern bezwecken? Warum gibt es die Bücher? Wer hatte die Idee? Wie kam es zur Verbreitung? Warum haben sie große magische Kraft? Welche Magie wohnt ihnen inne?
 ## Geister

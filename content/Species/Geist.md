@@ -9,4 +9,5 @@ type:
 origin location:
   - "[[Eternal Plane]]"
 intelligence: true
+draft: false
 ---

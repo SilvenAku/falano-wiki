@@ -11,6 +11,7 @@ Active Chars:
 Passive Chars: 
 Ready: false
 Published: false
+draft: false
 ---
 ```ob-timeline
 tags=herrderträume

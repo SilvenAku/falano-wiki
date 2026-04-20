@@ -25,6 +25,7 @@ Ready: true
 Published: true
 type:
   - range
+draft: false
 ---
 ## Summary
 Die drei kommen in eine Deckades Arena, da Tilman Gandradi, ein Ehemann einer großen Galari Fürstin gestorben ist. Silvio Chiavelli, ein alter Freund von Naldor erklärt, er sei einfach umgefallen. Naldor und Sean schicken Merakor fort, um keine Angst zu verursachen. Tilman war ein guter Spieler, der kaum Feinde hatte, es sieht nicht nach Mord aus. Naldor will dem Kartellpalast einen Besuch abstatten um mit der Gattin des Toten sprechen zu können.

@@ -8,6 +8,7 @@ tags:
 type:
   - range
 color: gray
+draft: false
 ---
 ## Das Aorta Oekonomia Cartell: Das "Grundgesetz"
 

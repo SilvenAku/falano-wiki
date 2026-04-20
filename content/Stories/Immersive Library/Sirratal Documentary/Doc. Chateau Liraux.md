@@ -1,6 +1,7 @@
 ---
 aliases:
   - "Doc.: Chateau Liraux"
+draft: false
 ---
 # Introduction
 - Generic introduction part NEW:

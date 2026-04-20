@@ -8,6 +8,7 @@ type:
   - range
 origin location: 
 intelligence: false
+draft: false
 ---
 
 | Element | Elementargeist | Wahrer Name             | Monstra             | Engel Herrscher   |

@@ -6,7 +6,9 @@ end-date:
 tags:
   - timeline
   - location
-draft: true
+draft: false
+lang: en
+translation: "Locations/Falano Port/Mothers Ring"
 ---
 # 📍 Location: Mothers Ring
 

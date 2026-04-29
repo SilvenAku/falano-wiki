@@ -235,7 +235,7 @@ Es gibt folgende Energieformen:
     - Nur mit einer Staatsbürgerschaft kann man in FALANO Eigentum erwerben.
     - Ebenso ist nur mit einer Staatsbürgerschaft das Anrecht auf die Sozialleistungen des Raumhafens geschaffen.
     - Beschleunigend wirken können Familienzusammenführungen und Bürgschaften, sowie besonderes wirtschaftliches oder politisches Interesse.
-- Politik erfolgt über das [[Triumvirat von Falano|Triumvirat]] und die Bestimmungen die zu Gründungszeiten von [[Falano Port|Falano]] als [[Triumviratsrepublik Falano]] festgesetzt worden sind.
+- Politik erfolgt über das [[Triumviratsrepublik Falano|Triumvirat]] und die Bestimmungen die zu Gründungszeiten von [[Falano Port|Falano]] als [[Triumviratsrepublik Falano]] festgesetzt worden sind.
 
 ### Wohnräume
 

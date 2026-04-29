@@ -12,7 +12,7 @@ The cultural, political, religious, and technological foundation of the Falano U
 ## 🏛️ Politics & Statehood
 - [[en/World and Culture/Politics/Politics|Politics Overview]]
 - [[en/World and Culture/Politics/Triumviratsrepublik Falano/Die Verfassung von Falano|Die Verfassung von Falano]]
-- [[en/World and Culture/Politics/Triumviratsrepublik Falano/Triumvirat von Falano|Triumvirat von Falano]]
+- [[Triumviratsrepublik Falano|Triumvirat von Falano]]
 - [[en/World and Culture/Politics/Triumviratsrepublik Falano/Nationalrat von Falano|Nationalrat von Falano]]
 - [[en/World and Culture/Politics/Triumviratsrepublik Falano/Triumviratskanzler von Falano|Triumviratskanzler]]
 - [[en/World and Culture/Politics/Triumviratsrepublik Falano/Triumviratsrichter von Falano|Triumviratsrichter]]

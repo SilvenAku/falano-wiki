@@ -17,10 +17,10 @@ draft: true
 # 📅 Event: 3051-04-08 Farlines erhöht die Preise
 
 > [!abstract] Brief Summary
-> Zehn Wochen nach der Übernahme der [[Sonhennaus Shipping Corp.]] durch [[Farlines]] folgt die erste Tariferhöhung: Frachtpreise steigen um durchschnittlich 18 %, Passagiertarife für interstellare Verbindungen um 9 %. [[Xavier Awesome Kohling]] nennt es „notwendige Infrastrukturinvestition". [[Oscar McRonald]] von [[Falano for All]] erinnert daran, dass er genau das vorausgesagt hat. Das [[Triumvirat von Falano]] schweigt.
+> Zehn Wochen nach der Übernahme der [[Sonhennaus Shipping Corp.]] durch [[Farlines]] folgt die erste Tariferhöhung: Frachtpreise steigen um durchschnittlich 18 %, Passagiertarife für interstellare Verbindungen um 9 %. [[Xavier Awesome Kohling]] nennt es „notwendige Infrastrukturinvestition". [[Oscar McRonald]] von [[Falano for All]] erinnert daran, dass er genau das vorausgesagt hat. Das [[Triumviratsrepublik Falano|Triumvirat von Falano]] schweigt.
 
 ## 🕒 Timeline
-- **Prelude:** Am 3051-01-28 übernahm [[Farlines]] die Mehrheit an der [[Sonhennaus Shipping Corp.]], wodurch das größte Passagierverkehrsunternehmen und das größte interstellare Speditionsunternehmen des Ports unter einem Dach vereint wurden. [[Falano for All]] kritisierte den Zusammenschluss sofort als kartellrechtlich bedenklich. Das [[Triumvirat von Falano|Triumvirat]] versicherte „strenge Überwachung". Am 29. Januar folgten massive Verspätungen im Netz.
+- **Prelude:** Am 3051-01-28 übernahm [[Farlines]] die Mehrheit an der [[Sonhennaus Shipping Corp.]], wodurch das größte Passagierverkehrsunternehmen und das größte interstellare Speditionsunternehmen des Ports unter einem Dach vereint wurden. [[Falano for All]] kritisierte den Zusammenschluss sofort als kartellrechtlich bedenklich. Das [[Triumviratsrepublik Falano|Triumvirat]] versicherte „strenge Überwachung". Am 29. Januar folgten massive Verspätungen im Netz.
 - **Start Date:** 3051-04-08
 - **The Climax:** [[Farlines]] veröffentlicht ohne Vorankündigung eine neue Tarifliste, gültig ab dem 1. Mai 3051. Frachtpreise für interstellare Standardtransporte +18 %, interstellare Passagierverbindungen +9 %, Intraportverkehr vorerst stabil.
 - **End Date:** 
@@ -39,10 +39,10 @@ draft: true
 
 ## 🔍 Historical Perspective
 > [!quote] Public Record / Propaganda
-> [[Farlines]] begründet die Tariferhöhung offiziell mit „erheblichen Investitionen in die Modernisierung der Flotteninfrastruktur" sowie „gestiegenen interstellaren Betriebskosten infolge der Systemintegration". Das [[Triumvirat von Falano|Triumvirat]] gibt an, die Entwicklung zu beobachten, und verweist auf bestehende Kontrollmechanismen. [[Xavier Awesome Kohling]] betont in einem Statement, dass Farlines nach der Übernahme als erstes Unternehmen überhaupt einen lückenlosen interstellaren Tracking-Standard für alle Frachtsendungen eingeführt habe.
+> [[Farlines]] begründet die Tariferhöhung offiziell mit „erheblichen Investitionen in die Modernisierung der Flotteninfrastruktur" sowie „gestiegenen interstellaren Betriebskosten infolge der Systemintegration". Das [[Triumviratsrepublik Falano|Triumvirat]] gibt an, die Entwicklung zu beobachten, und verweist auf bestehende Kontrollmechanismen. [[Xavier Awesome Kohling]] betont in einem Statement, dass Farlines nach der Übernahme als erstes Unternehmen überhaupt einen lückenlosen interstellaren Tracking-Standard für alle Frachtsendungen eingeführt habe.
 
 > [!danger] The Hidden Truth 
-> Die 18-prozentige Frachtpreiserhöhung wurde intern von [[Irina Palowtcik]] schon drei Monate vor der Übernahme in einem vertraulichen Strategiepapier vorbereitet. Das Papier trägt den internen Titel „Phase 2: Konsolidierungsertrag" und enthält eine weitere Phase: Phase 3, vorgesehen für 3052, mit einer Gesamtpreissteigerung von 34 % gegenüber dem Stand von 3050. Das [[Triumvirat von Falano]] hat dieses Papier gesehen – es war Teil der Due-Diligence-Unterlagen, die [[Kohling]] bei der Verkaufsverhandlung eingereicht hat. Die Überwachung, von der das Triumvirat spricht, ist nicht vorgesehen. Sie wurde nie definiert.
+> Die 18-prozentige Frachtpreiserhöhung wurde intern von [[Irina Palowtcik]] schon drei Monate vor der Übernahme in einem vertraulichen Strategiepapier vorbereitet. Das Papier trägt den internen Titel „Phase 2: Konsolidierungsertrag" und enthält eine weitere Phase: Phase 3, vorgesehen für 3052, mit einer Gesamtpreissteigerung von 34 % gegenüber dem Stand von 3050. Das [[Triumviratsrepublik Falano|Triumvirat von Falano]] hat dieses Papier gesehen – es war Teil der Due-Diligence-Unterlagen, die [[Kohling]] bei der Verkaufsverhandlung eingereicht hat. Die Überwachung, von der das Triumvirat spricht, ist nicht vorgesehen. Sie wurde nie definiert.
 
 ## 📝 Personal Notes
 

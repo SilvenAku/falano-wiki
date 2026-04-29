@@ -68,14 +68,105 @@ Das vergitterte Fenster war – nach allen vorliegenden Unterlagen – seit mind
 
 Ordnungswache betritt Kammer im Mothers Ring – und sagt fast nichts
 
-Am heutigen 22. April betrat ein Team der [[Ordnungswache]] das unterirdische Bauwerk im Zentrum des [[Mothers Ring]]-Hexagramms – jenen Raum, den Gründungsarchitekt [[Larik Anahan Kahn]] in den Originalplänen mit „Fundament. Reserviert." bezeichnete und der seit dem Jahr 2774 in keinem öffentlichen Stadtplan mehr verzeichnet ist. Zugangspunkt: das vergitterte Kellerfenster in der alten Mauer am nordwestlichen Rand des [[Saint-Rousseau Cemetery]], das [[Josef Stadl-Heuriger]] vor Gericht beschrieben hatte.
+Am heutigen 22. April betrat ein Team der Ordnungswache das unterirdische Bauwerk im Zentrum des Mothers Ring-Hexagramms – jenen Raum, den Gründungsarchitekt Larik Anahan Kahn in den Originalplänen mit „Fundament. Reserviert." bezeichnete und der seit dem Jahr 2774 in keinem öffentlichen Stadtplan mehr verzeichnet ist. Zugangspunkt: das vergitterte Kellerfenster in der alten Mauer am nordwestlichen Rand des Saint-Rousseau Cemetery, das Josef Stadl-Heuriger vor Gericht beschrieben hatte.
 
-Das Team war zwei Stunden und 38 Minuten drin. [[Lois McRacher]] las anschließend 63 Wörter vor. Kein Fund erwähnt. Keine Entwarnung. Keine Entwarnung ist keine Entlastung.
+Das Team war zwei Stunden und 38 Minuten drin. Lois McRacher las anschließend 63 Wörter vor. Kein Fund erwähnt. Keine Entwarnung. Keine Entwarnung ist keine Entlastung.
 
-[[Prof. Dr. Sanna Orellau]] wurde nicht konsultiert: „Ich habe davon aus dem Radio erfahren. Wie Sie auch." Sie verweist auf Kahns Symbolik für derartige Räume: das ‚Schlussstein'-Zeichen. Was ein Schlussstein ist, hat Kahn nie erklärt.
+Prof. Dr. Sanna Orellau wurde nicht konsultiert: „Ich habe davon aus dem Radio erfahren. Wie Sie auch." Sie verweist auf Kahns Symbolik für derartige Räume: das ‚Schlussstein'-Zeichen. Was ein Schlussstein ist, hat Kahn nie erklärt.
 
-Das Stadtarchiv ist gesperrt. Das Fenster ist versiegelt. [[Josef Stadl-Heuriger]], der heute Morgen vor dem Gerichtssaal noch eine letzte Aussage machte, ist nicht mehr erreichbar. Er hatte das Fenster gestern Abend noch einmal aufgesucht. Es war offen.
+Das Stadtarchiv ist gesperrt. Das Fenster ist versiegelt. Josef Stadl-Heuriger, der heute Morgen vor dem Gerichtssaal noch eine letzte Aussage machte, ist nicht mehr erreichbar. Er hatte das Fenster gestern Abend noch einmal aufgesucht. Es war offen.
 
 Es war seit mindestens 200 Jahren versiegelt.
 
 #Falano #MothersRing #Kammer #Ordnungswache #LarikAnahanKahn #KigalShu #FalanoSentinel #Schlussstein
+
+---
+
+Order Guard Enters Chamber Beneath the Mothers Ring — and Says Almost Nothing
+
+On this 22nd of April, a team of the Law Enforcement entered the underground structure at the center of the Mothers Ring hexagram — the space that founding architect Larik Anahan Kahn designated in the original plans as "Foundation. Reserved." and which has not appeared in any public city map since the year 2774. Access point: the barred cellar window in the old wall at the northwestern edge of the Saint-Rousseau Cemetery, which Josef Stadl-Heuriger had described before the court.
+
+The team was inside for two hours and 38 minutes. Lois McRacher then read 63 words aloud. No finding mentioned. No all-clear. No all-clear is not a clearance.
+
+Prof. Dr. Sanna Orellau was not consulted: "I heard about it on the radio. Like you." She points to Kahn's symbolism for such spaces: the "keystone" mark. What a keystone is, Kahn never explained.
+
+The city archive remains closed. The window is sealed. Josef Stadl-Heuriger, who made one final statement outside the courtroom this morning, is no longer reachable. He had visited the window again the previous evening. It was open.
+
+It had been sealed for at least 200 years.
+
+#Falano #MothersRing #Chamber #Ordnungswache #LarikAnahanKahn #KigalShu #FalanoSentinel #Keystone
+
+---
+
+277 years. Sealed. Then: 63 words. 🏛️ The Law Enforcement entered the underground chamber at the heart of the Mothers Ring today — the foundation that hasn't appeared on any city map since 2774. They were inside for two hours and 38 minutes. Lois McRacher's statement afterward: 63 words. No findings. No all-clear. Prof. Dr. Orellau was not consulted. Josef Stadl-Heuriger, the only person who knew the entrance, is no longer reachable. The barred window had been sealed for at least 200 years. It was open. 🔒
+
+277 Jahre. Versiegelt. Dann: 63 Wörter. 🏛️ Die Ordnungswache betrat heute das unterirdische Bauwerk im Zentrum des Mothers Ring – jenes Fundament, das seit 2774 in keinem Stadtplan steht. Zwei Stunden und 38 Minuten drin. Lois McRachers Statement danach: 63 Wörter. Kein Fund. Keine Entwarnung. Prof. Dr. Orellau wurde nicht konsultiert. Josef Stadl-Heuriger, der einzige Mensch, der den Zugang kannte, ist nicht mehr erreichbar. Das vergitterte Fenster war seit mindestens 200 Jahren versiegelt. Es war offen. 🔒
+
+#Falano #MothersRing #Chamber #LawEnforcement #KigalShu #FalanoSentinel #Keystone 
+
+# Compact
+### 📋 Your Slide Plan: The Chamber Beneath the Mothers Ring
+
+**Slide 1: The Hook (Cover)**
+
+- **Image idea:** A wide-angle shot of the geometric center of the Mothers Ring at dawn — streets emptied, a police cordon barely visible in the distance. Below street level: darkness that has been undisturbed for 277 years. Aesthetic: cold, stone-grey, unresolved.
+
+- **Headline (Large):** 277 YEARS. SEALED. THEN: 63 WORDS.
+
+- **Subline:** "The security of the population is at all times guaranteed." – Lois McRacher
+
+
+**Slide 2: The Facts (The Numbers)**
+
+- **Image idea:** Side by side: a clean official floor plan of the Saint-Rousseau Cemetery with the access point circled, and a reconstructed image of the barred window — barely visible behind a wall.
+
+- **Headline:** APRIL 22, 3051 — WHAT WE KNOW
+
+- **Bullet Points:**
+    - Entry: 07:14 — Exit: 09:52 (2 hrs 38 min inside)
+    - Estimated chamber area: 400–600 sqm
+    - McRacher's statement: **63 words**
+    - City archive: still closed
+    - Prof. Dr. Orellau: not consulted
+    - Josef Stadl-Heuriger: not reachable
+
+
+**Slide 3: The Quote (The Silence)**
+
+- **Image idea:** An empty podium with a single microphone. A sheet of paper placed face-down on the lectern. In the background: the Ordnungsamt Founders Circle facade.
+
+- **Quote:** "The security of the population is at all times guaranteed."
+
+- **Source:** – Lois McRacher, Ordnungswache Commander — 63 words, no questions taken, side exit
+
+
+**Slide 4: The Counter (Knowledge vs. Silence)**
+
+- **Image idea:** Prof. Dr. Sanna Orellau at a drafting table — blueprints spread out, one architectural symbol circled in red. Next to it: a rendering of Kahn's downward triangle, crossed out, labeled "Schlussstein."
+
+- **Headline:** "WHAT IS A KEYSTONE? KAHN NEVER EXPLAINED."
+
+- **Points:**
+    - **Prof. Dr. Orellau:** not invited — learned about the entry "on the radio, like you"
+    - **Kahn's symbol:** a downward-pointing triangle, crossed out — marked "Keystone" in the original plans
+    - **Definition:** nowhere in Kahn's surviving documents
+    - **The window:** sealed for at least 200 years — Stadl-Heuriger found it open the night before
+    - **Stadl-Heuriger:** no longer reachable
+
+
+**Slide 5: Immersive Element (The Statement)**
+
+- **Style:** A slightly pixelated press release printout — sparse layout, official Ordnungswache letterhead, the kind of document that answers nothing while appearing to answer everything.
+
+- **Content:**
+    - **ORDNUNGSWACHE — OFFICIAL STATEMENT**
+    - *22 April 3051, 11:30*
+    - "The Ordnungswache team visited and documented the described underground structure this morning as part of the ongoing investigation. The results of the investigation are being evaluated. Further information will be communicated as soon as it can be made available to the public. The security of the population is at all times guaranteed."
+    - ⚠️ *Total word count: 63. Findings mentioned: 0.*
+
+
+**Slide 6: Call to Action (Engagement)**
+
+- **Question for the community:** What does it mean when "the security of the population is guaranteed" — but no one says what was found? And where is Josef Stadl-Heuriger?
+
+- **Footer:** Tell us what you think. 👇

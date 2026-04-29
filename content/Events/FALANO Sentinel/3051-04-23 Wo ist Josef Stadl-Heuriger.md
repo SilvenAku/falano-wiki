@@ -70,14 +70,104 @@ Jetzt ist er weg.
 
 Zeuge verschwunden: Wo ist Josef Stadl-Heuriger?
 
-[[Josef Stadl-Heuriger]], Friedhofswärter am [[Saint-Rousseau Cemetery]] und Zeuge im Kigal-Shu-Prozess, ist seit seiner Aussage am 22. April nicht mehr auffindbar. Er verließ den [[Obersten Gerichtshof von Falano]] durch den Seitenausgang. Seitdem ist er für niemanden erreichbar – nicht für seinen Kollegen Rémi Thouvenin, der eine Vermisstenanzeige eingebracht hat, nicht für die Redaktion des Sentinel, und nach allem, was wir wissen, auch nicht für die [[Ordnungswache]].
+Josef Stadl-Heuriger, Friedhofswärter am Saint-Rousseau Cemetery und Zeuge im Kigal-Shu-Prozess, ist seit seiner Aussage am 22. April nicht mehr auffindbar. Er verließ den Obersten Gerichtshof von Falano durch den Seitenausgang. Seitdem ist er für niemanden erreichbar – nicht für seinen Kollegen Rémi Thouvenin, der eine Vermisstenanzeige eingebracht hat, nicht für die Redaktion des Sentinel, und nach allem, was wir wissen, auch nicht für die Ordnungswache.
 
-Das [[Ordnungsamt Founders Circle]] erklärt: „Keine Hinweise auf Fremdverschulden." Drei Nachbarn in der Rue Sainte-Croix 14 im [[Mothers Ring]] berichten dem Sentinel von zwei unbekannten Männern in dunkler Kleidung, die in der Nacht nach dem Verschwinden Stadl-Heirigers Wohnung betraten und zwanzig Minuten später wieder verließen. Sie trugen keine Uniformen, keine Abzeichen.
+Das Ordnungsamt Founders Circle erklärt: „Keine Hinweise auf Fremdverschulden." Drei Nachbarn in der Rue Sainte-Croix 14 im Mothers Ring berichten dem Sentinel von zwei unbekannten Männern in dunkler Kleidung, die in der Nacht nach dem Verschwinden Stadl-Heirigers Wohnung betraten und zwanzig Minuten später wieder verließen. Sie trugen keine Uniformen, keine Abzeichen.
 
-[[Fennek Abarran]] hat beim Gericht einen Antrag auf ergänzendes Verhör gestellt – „sobald der Zeuge wieder erreichbar ist."
+Fennek Abarran hat beim Gericht einen Antrag auf ergänzendes Verhör gestellt – „sobald der Zeuge wieder erreichbar ist."
 
 Stadl-Heuriger hatte vor dem Gericht unter Eid ausgesagt, das vergitterte Fenster zur unterirdischen Kammer am Vorabend seiner Aussage offen vorgefunden zu haben. Das Fenster war seit mindestens 200 Jahren geschlossen gewesen.
 
 Er war der einzige, der es gesehen hat. Jetzt ist er weg.
 
 #Falano #JosefStadlHeuriger #MothersRing #SaintRousseauCemetery #Kammer #Ordnungswache #KigalShu #Vermisst #FalanoSentinel
+
+---
+
+Witness Missing: Where Is Josef Stadl-Heuriger?
+
+Josef Stadl-Heuriger, caretaker at the Saint-Rousseau Cemetery and witness in the Kigal-Shu trial, has not been reachable since his testimony on April 22nd. He left the Supreme Court of Falano through the side exit. Since then he has been unreachable to anyone — not to his colleague Rémi Thouvenin, who has filed a missing persons report, not to the Sentinel's editorial office, and by all accounts, not to the Law Enforcement either.
+
+The Law Enforcement Founders Circle states: "No indication of third-party involvement." Three neighbors at Rue Sainte-Croix 14 in the Mothers Ring report to the Sentinel that two unknown men in dark clothing entered Stadl-Heuriger's apartment the night after his disappearance and left twenty minutes later. They wore no uniforms, no insignia.
+
+Fennek Abarran has filed a motion with the court for a supplementary hearing — "as soon as the witness is reachable again."
+
+Stadl-Heuriger had testified under oath that he found the barred window to the underground chamber open on the evening before his testimony. The window had been sealed for at least 200 years.
+
+He was the only one who saw it. Now he is gone.
+
+#Falano #JosefStadlHeuriger #MothersRing #SaintRousseauCemetery #Chamber #Ordnungswache #KigalShu #Missing #FalanoSentinel
+
+---
+
+The only witness who saw the window. Now he's gone. 🚪 Josef Stadl-Heuriger — caretaker, witness, the only person who knew the barred window to the chamber from personal experience — has been missing since his testimony on April 22nd. The Law Enforcement: "No third-party involvement." Three neighbors report two men in dark clothing who searched his apartment that same night. The trial continues. The witness doesn't. 🔍
+
+Der einzige Zeuge, der das Fenster gesehen hat. Jetzt ist er weg. 🚪 Josef Stadl-Heuriger – Friedhofswärter, Zeuge, der einzige Mensch, der das vergitterte Fenster zur Kammer aus eigener Anschauung kennt – ist seit seiner Aussage am 22. April verschwunden. Die Ordnungswache: „Kein Fremdverschulden." Drei Nachbarn berichten von zwei Männern in dunkler Kleidung, die seine Wohnung in der Nacht durchsuchten. Der Prozess geht weiter. Der Zeuge nicht. 🔍
+
+#Falano #JosefStadlHeuriger #MothersRing #KigalShu #LawEnforcement  #Missing #Vermisst #FalanoSentinel
+
+# Compact
+### 📋 Your Slide Plan: Where Is Josef Stadl-Heuriger?
+
+**Slide 1: The Hook (Cover)**
+
+- **Image idea:** The side exit of the Supreme Court of Falano — a door half-ajar, afternoon light falling on empty pavement. No one there. Aesthetic: stark, documentary, unsettling.
+
+- **Headline (Large):** HE SAW THE WINDOW. NOW HE'S GONE.
+
+- **Subline:** "No indication of third-party involvement." – Law Enforcement Founders Circle
+
+
+**Slide 2: The Facts (The Numbers)**
+
+- **Image idea:** A stripped-down timeline strip — courthouse, side exit arrow, Rue Sainte-Croix 14, the cemetery gate — connected by a dotted line that ends in a question mark.
+
+- **Headline:** APRIL 22–23, 3051 — WHAT HAPPENED
+
+- **Bullet Points:**
+    - Morning: Stadl-Heuriger testifies under oath — the barred window was open the night before
+    - Exit: courthouse side door, after the session ends
+    - That night: two unknown men in dark clothing enter his apartment at Rue Sainte-Croix 14
+    - Duration of their visit: approx. **20 minutes**
+    - Missing persons report filed: by colleague Rémi Thouvenin
+    - Law Enforcement response: **"No third-party involvement"**
+
+
+**Slide 3: The Quote (The Warning)**
+
+- **Image idea:** Fennek Abarran walking out of a courthouse corridor — slightly blurred, caught mid-stride.
+
+- **Quote:** "Do you know if he is still a witness — or already something else?"
+
+- **Source:** – Fennek Abarran, speaking to the Sentinel before the court session on April 23rd
+
+
+**Slide 4: The Counter (Institutions vs. Reality)**
+
+- **Image idea:** Split-screen. Left: the official statement from the Law Enforcement — sterile, letterhead, two sentences. Right: handwritten notes from the Sentinel's three anonymous neighbors — "professional", "they knew what they were looking for", "I didn't call the Law Enforcement. I didn't know if that would have been a good idea."
+
+- **Headline:** "NO THIRD-PARTY INVOLVEMENT."
+
+- **Points:**
+    - Official position: Stadl-Heuriger is an adult with the right to choose his whereabouts freely
+    - Three neighbors: two men entered, searched, left — no uniforms, no insignia
+    - Fennek Abarran's motion: supplementary hearing — "when the witness is reachable again"
+    - The subtext nobody is saying aloud: the motion implies he may not be
+
+
+**Slide 5: Immersive Element (The Last Words)**
+
+- **Style:** A plain sheet of paper — handwritten, the kind someone might leave at a court cloakroom. No letterhead. No address. Slightly creased.
+
+- **Content:**
+    - *Josef Stadl-Heuriger, morning of April 22nd, 3051 — before his testimony:*
+    - "I have no fear of what is down there."
+    - "I have fear of those who know what is down there — and keep silent anyway."
+    - ⚠️ Not for the record. Said to the Sentinel. Now on the record.
+
+
+**Slide 6: Call to Action (Engagement)**
+
+- **Question for the community:** A witness disappears the night after testifying about a sealed chamber beneath the Mothers Ring. His apartment is searched by unknown individuals. The Law Enforcement sees no cause for concern. What exactly are they investigating — and for whom?
+
+- **Footer:** Do you have information? Reach out. 👇

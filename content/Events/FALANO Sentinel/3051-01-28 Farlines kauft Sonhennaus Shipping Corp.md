@@ -23,7 +23,7 @@ draft: true
 - **Start Date:** - **The Climax:** Die erste Idee für den Kauf soll Kohling bereits 3014 gefasst haben.
 - **End Date:** Am 28.1.3051 konnte Farlines offiziell die Mehrheit an Sonhennaus Shipping Corp. erwerben.
 - **Leading Figures:** [[Xavier Awesome Kohling]]
-- **Factions Involved:** [[Triumvirat von Falano]] und der Vorstand von [[Farlines]]
+- **Factions Involved:** [[Triumviratsrepublik Falano|Triumvirat von Falano]] und der Vorstand von [[Farlines]]
 - **Casualties / Scope:** Millions affected. Es handelt sich um einen kartellrechtlich nicht irrelevanten Zusammenschluss. Das Triumvirat versicherte, dass die nächsten unternehmerischen Schritte des Unternehmens unter strenger Beobachtung erfolgen würden.
 
 ## 📍 Location(s)

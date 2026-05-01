@@ -146,7 +146,7 @@ He watched over the dead. The dead watched over us. Now he's gone. 🕯️ Josef
 
 Er hat über die Toten gewacht. Die Toten haben über uns gewacht. Jetzt ist er weg. 🕯️ Josef Stadl-Heuriger wurde tot in der Kammer unter dem Mothers Ring aufgefunden – ermordet von The Veil Eternal, Anti-Nekromantie-Extremisten, die die Tat den Nekromanten in die Schuhe schieben wollten. Seine letzte Nachricht an den Sentinel: „Was dort unten liegt, hat nie jemandem geschadet. Es hat gewacht." Prof. Orellau bestätigt: Die Texte an den Kammerwänden sind Schutzformeln, keine Flüche. Kahns Hexagramm war ein Schild. Das Kigal-Shu waren keine Grabschänder – sondern gescheiterte Hüter. Kassandra Van Haag: „Ein Mann ist tot, weil er die Antwort kannte." Die Nekromantie-Debatte ist nicht mehr philosophisch. Sie ist existenziell. 🔒
 
-#Falano #JosefStadlHeuriger #MothersRing #TheVeilEternal #KigalShu #Nekromantie #Schutzkreis #FalanoSentinel
+#Falano #JosefStadlHeuriger #MothersRing #TheVeilEternal #KigalShu #Necromancy #Ritual #FalanoSentinel
 
 # Compact
 ### 📋 Your Slide Plan: Stadl-Heuriger tot – Die Wahrheit unter dem Mothers Ring

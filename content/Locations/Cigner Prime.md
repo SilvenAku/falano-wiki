@@ -27,6 +27,8 @@ Cigner Prime ist eine **Supererde**, die einen stabilen K-Klasse-Stern (einen Or
   
 - **Entfernung zum Stern:** ca. 0,7 AE (Astronomische Einheiten).
   
+- **Entfernung zu Falano Port:** ca. eine Woche Reisezeit per Kennic-Turbine (Koloniefregatte). Die Route erfordert mehrere Hopping-Wegpunkte, da Cigner Prime deutlich weiter entfernt ist als [[Terra]].
+  
 - **Jahr:** Ein "Cigner-Jahr" dauert etwa 240 Erdtage.
   
 - **Tag:** Die Eigenrotation ist langsam; ein Tag dauert 34 Erdstunden.
